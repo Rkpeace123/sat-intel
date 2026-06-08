@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+*.egg
+
+# Environment — never commit real secrets
+.env
+*.env.local
+
+# Vector store — never commit embeddings (can be rebuilt from data/kb/)
+backend/data/chroma/
+
+# Model weights cache (large, re-downloaded at build)
+backend/data/models/
+.cache/
+.hypothesis/
+
+# Alembic compiled cache (keep migrations, not pyc)
+backend/alembic/__pycache__/
+
+# Test artefacts
+.pytest_cache/
+htmlcov/
+.coverage
+*.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Phase spec docs (local planning, not part of the deliverable)
+phase/
+phase*.md

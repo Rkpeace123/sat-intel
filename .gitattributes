@@ -1,0 +1,21 @@
+# Default: normalise to LF in repo
+* text=auto
+
+# Shell scripts must stay LF (executed inside Linux containers)
+*.sh text eol=lf
+
+# Python files: LF
+*.py text eol=lf
+
+# Markdown, YAML, TOML, JSON: LF
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.ini text eol=lf
+
+# Binaries: no conversion
+*.png binary
+*.jpg binary
+*.pdf binary

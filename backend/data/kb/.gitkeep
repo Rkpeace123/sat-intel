@@ -1,0 +1,3 @@
+# PUBLIC documents only — MoSPI circulars, NIC codebooks, survey manuals.
+# NO citizen data ever stored here.
+# Phase 3: ingest.py reads from this directory.

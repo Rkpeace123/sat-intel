@@ -1,0 +1,76 @@
+version: "3.9"
+
+services:
+
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER:     satark
+      POSTGRES_PASSWORD: satark
+      POSTGRES_DB:       satark
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test:     ["CMD-SHELL", "pg_isready -U satark"]
+      interval: 5s
+      timeout:  5s
+      retries:  10
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test:     ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout:  5s
+      retries:  10
+
+  ollama:
+    image: ollama/ollama:latest
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # Pull model once after first boot:
+    #   docker compose exec ollama ollama pull gemma2:2b
+
+  api:
+    build:
+      context:    ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+asyncpg://satark:satark@postgres:5432/satark
+      REDIS_URL:    redis://redis:6379/0
+      OLLAMA_URL:   http://ollama:11434
+      CHROMA_DIR:   /app/data/chroma
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/data:/app/data          # kb/ + chroma/ persistence across restarts
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      ollama:
+        condition: service_started
+    healthcheck:
+      test:     ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 15s
+      timeout:  5s
+      retries:  5
+
+volumes:
+  pgdata:
+  redis_data:
+  ollama_data:

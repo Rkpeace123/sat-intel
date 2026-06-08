@@ -1,0 +1,2 @@
+# Seed data: seed_users.py, codes.json (NIC occupation codes), demo_survey.json, personas.json
+# Phase 2: alembic migrations read seed_users for initial admin account.
