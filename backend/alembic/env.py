@@ -62,8 +62,8 @@ _APPEND_ONLY_TABLES = ["audit_logs", "response_versions"]
 def _install_append_only_triggers(conn: Connection) -> None:
     conn.execute(text(_TRIGGER_FUNCTION))
     for table in _APPEND_ONLY_TABLES:
+        conn.execute(text(f"DROP TRIGGER IF EXISTS trg_no_mutation_{table} ON {table};"))
         conn.execute(text(f"""
-            DROP TRIGGER IF EXISTS trg_no_mutation_{table} ON {table};
             CREATE TRIGGER trg_no_mutation_{table}
             BEFORE UPDATE OR DELETE ON {table}
             FOR EACH ROW EXECUTE FUNCTION prevent_mutation();

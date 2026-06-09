@@ -1,25 +1,26 @@
 """
 JWT creation/verification + bcrypt password hashing.
-Phase 14 API routes will call these helpers.
+Uses bcrypt directly to avoid passlib version-detection bugs.
 """
 from datetime import UTC, datetime, timedelta
 
+import bcrypt
 import jwt
-from passlib.context import CryptContext
 
 from app.config import settings
-
-_pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 
 # ── Passwords ─────────────────────────────────────────────────────────────────
 
 def hash_password(plain: str) -> str:
-    return _pwd_context.hash(plain)
+    return bcrypt.hashpw(plain.encode("utf-8"), bcrypt.gensalt()).decode("utf-8")
 
 
 def verify_password(plain: str, hashed: str) -> bool:
-    return _pwd_context.verify(plain, hashed)
+    try:
+        return bcrypt.checkpw(plain.encode("utf-8"), hashed.encode("utf-8"))
+    except Exception:
+        return False
 
 
 # ── JWT ───────────────────────────────────────────────────────────────────────
@@ -30,7 +31,7 @@ def create_token(subject: str, extra: dict | None = None) -> str:
     return jwt.encode(payload, settings.jwt_secret, algorithm=settings.jwt_alg)
 
 
-# alias for backward compat
+# alias
 create_access_token = create_token
 
 
@@ -39,5 +40,5 @@ def decode_token(token: str) -> dict:
     return jwt.decode(token, settings.jwt_secret, algorithms=[settings.jwt_alg])
 
 
-# alias for backward compat
+# alias
 decode_access_token = decode_token
