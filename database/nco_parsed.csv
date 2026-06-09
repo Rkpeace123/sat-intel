@@ -1,0 +1,326 @@
+code,code_type,label,family,sector,synonyms
+6111.0100,NCO,Cultivator - General,Field Crop and Vegetable Growers,Agriculture,cultivator|field|general|vegetable
+6111.0200,NCO,Cultivator - Crop,Field Crop and Vegetable Growers,Agriculture,crop|cultivator|field|vegetable
+6111.0601,NCO,Cultivator - Cotton,Field Crop and Vegetable Growers,Agriculture,cotton|cultivator|field|vegetable
+6111.0800,NCO,Cultivator - Fruit (Horticulturist),Field Crop and Vegetable Growers,Agriculture,cultivator|field|fruit (horticulturist)|vegetable
+6111.1300,NCO,Cultivator - Vegetables,Field Crop and Vegetable Growers,Agriculture,cultivator|field|vegetable|vegetables
+6112.0201,NCO,Toddy Tapper,Tree and Shrub Crop Growers,Agriculture,shrub
+6112.0501,NCO,Tea Plantation Worker,Tree and Shrub Crop Growers,Agriculture,shrub
+6112.0601,NCO,Coffee Plantation Worker,Tree and Shrub Crop Growers,Agriculture,shrub
+6112.0701,NCO,Bamboo Grower,Tree and Shrub Crop Growers,Agriculture,shrub
+7315.1000,NCO,Bead Maker (Glass),Glass Makers; Cutters; Grinders and Finishers,Capital Goods & Manufacturing,cutters|finishers|glass|grinders
+7315.1100,NCO,Optical Worker,Glass Makers; Cutters; Grinders and Finishers,Capital Goods & Manufacturing,cutters|finishers|glass|grinders
+7315.1800,NCO,Glass Bangles Maker,Glass Makers; Cutters; Grinders and Finishers,Capital Goods & Manufacturing,cutters|finishers|glass|grinders
+7412.0203,NCO,Iron & Steel - Fitter Electrical Assembly,Electrical Mechanics and Fitters,Capital Goods & Manufacturing,electrical|fitter electrical assembly|iron & steel|mechanics
+8122.6700,NCO,Picker,Metal Finishing; Plating and Coating Machine Operators,Capital Goods & Manufacturing,coating|finishing|machine|metal|plating
+8131.4200,NCO,Box Making Machine Operator (Match),Chemical Products Plant and Machine Operators,Capital Goods & Manufacturing,chemical|machine|plant|products
+8131.4300,NCO,Box Filling Machine Operator (Match),Chemical Products Plant and Machine Operators,Capital Goods & Manufacturing,chemical|machine|plant|products
+8131.6200,NCO,Rubber Worker,Chemical Products Plant and Machine Operators,Capital Goods & Manufacturing,chemical|machine|plant|products
+8131.8800,NCO,Agarbati Maker,Chemical Products Plant and Machine Operators,Capital Goods & Manufacturing,chemical|machine|plant|products
+8131.8900,NCO,Pencil Maker,Chemical Products Plant and Machine Operators,Capital Goods & Manufacturing,chemical|machine|plant|products
+8142.1400,NCO,Moulder; Hand (Plastic),Plastic Products Machine Operators,Capital Goods & Manufacturing,machine|plastic|products
+8143.0100,NCO,Cardboard Box Maker,Paper Products Machine Operators,Capital Goods & Manufacturing,machine|paper|products
+8143.0200,NCO,Envelope Maker - Machine,Paper Products Machine Operators,Capital Goods & Manufacturing,envelope maker|machine|paper|products
+8143.0300,NCO,Bag Maker - Machine,Paper Products Machine Operators,Capital Goods & Manufacturing,bag maker|machine|paper|products
+8143.0400,NCO,Flower Maker - Paper,Paper Products Machine Operators,Capital Goods & Manufacturing,flower maker|machine|paper|products
+9329.0300,NCO,Salt Reclamation Worker,Manufacturing Labourers Not Elsewhere Classified,Capital Goods & Manufacturing,labourers|manufacturing
+9329.0701,NCO,Accessory Fitter,Manufacturing Labourers Not Elsewhere Classified,Capital Goods & Manufacturing,labourers|manufacturing
+7111.9900,NCO,Builders; Traditional Materials; Other,House Builders,Construction,builders|house
+7112.0100,NCO,Stone Mason,Bricklayers and Related Workers,Construction,bricklayers
+7112.0200,NCO,Brick Layerer; Construction,Bricklayers and Related Workers,Construction,bricklayers
+7113.0400,NCO,Stone Carver/ Stone Cutter/ Stone Dresser/ Stone Polisher,Stonemasons; Stone Cutters; Splitters and Carvers,Construction,carvers|cutters|splitters|stone|stone carver|stone cutter|stone dresser|stone polisher
+7114.9900,NCO,Concrete Placers; Concrete Finishers and Related Workers; Other,Concrete Placers; Concrete Finishers and Related Workers,Construction,concrete|finishers|placers
+7115.0100,NCO,Carpenter - General,Carpenters and Joiners,Construction,carpenter|carpenters|general|joiners
+7115.0201,NCO,Shuttering Carpenter,Carpenters and Joiners,Construction,carpenters|joiners
+7119.0200,NCO,White Washer,Building Frame and Related Traders,Construction,building|frame|traders
+7121.9900,NCO,Roofers; Other,Roofers,Construction,roofers
+7122.0100,NCO,Tile Setter,Floor Layers and Tile Setters,Construction,floor|layers|setters
+7123.0100,NCO,Plasterer,Plasterers,Construction,plasterers
+7124.0200,NCO,Acoustical Insulator,Insulation Workers,Construction,insulation
+7125.0300,NCO,Picture Framer,Glaziers,Construction,glaziers
+7126.0101,NCO,Plumber/ Sanitation Worker,Plumbers and Pipe Fitters,Construction,plumber|plumbers|sanitation worker
+7127.0100,NCO,Mechanic; Refrigeration and Air- Conditioning,Air-Conditioning and Refrigeration Mechanics,Construction,air-conditioning|conditioning|mechanic, refrigeration and air|mechanics|refrigeration
+7131.0101,NCO,Assistant Painter & Decorator,Painters and Related Workers,Construction,painters
+7132.0100,NCO,Painter - General,Spray Painters and Varnishers,Construction,general|painter|painters|spray|varnishers
+7214.0800,NCO,Fitter - Construction,Structural Metal Preparers and Erectors,Construction,construction|erectors|fitter|metal|preparers|structural
+7412.0801,NCO,Maintenance Assistant Helper,Electrical Mechanics and Fitters,Construction,electrical|mechanics
+7213.0101,NCO,Sheet Metal Worker; General/ Sheet Metal Worker ? Hand Tools and Manually Operated,Sheet Metal Workers,Capital Goods & Manufacturing,metal|sheet|sheet metal worker ? hand tools and manually operated|sheet metal worker, general
+7215.0101,NCO,Rigger - Rigging of Heavy Material,Riggers and Cable Splicers,Capital Goods & Manufacturing,cable|rigger|riggers|rigging of heavy material|splicers
+7221.0100,NCO,Blacksmith/ Ironsmith,Blacksmiths; Hammersmith and Forging Press Workers,Capital Goods & Manufacturing,blacksmith|blacksmiths|forging|hammersmith|ironsmith|press
+7222.0500,NCO,Die Maker,Tool Makers and Related Workers,Capital Goods & Manufacturing,
+7222.0700,NCO,Locksmith,Tool Makers and Related Workers,Capital Goods & Manufacturing,
+7223.6002,NCO,CNC Operator - Turning,Metal Working Machine Tool Setters and Operators,Capital Goods & Manufacturing,cnc operator|machine|metal|setters|turning|working
+7224.0100,NCO,Grinder; General,Metal Polishers; Wheel Grinders and Tool Sharpeners,Capital Goods & Manufacturing,grinders|metal|polishers|sharpeners|wheel
+7224.0500,NCO,Thread Grinder,Metal Polishers; Wheel Grinders and Tool Sharpeners,Capital Goods & Manufacturing,grinders|metal|polishers|sharpeners|wheel
+7224.0801,NCO,Polisher,Metal Polishers; Wheel Grinders and Tool Sharpeners,Capital Goods & Manufacturing,grinders|metal|polishers|sharpeners|wheel
+7233.0100,NCO,Fitter - General,Agricultural and Industrial Machinery Mechanics and Repairers,Capital Goods & Manufacturing,agricultural|fitter|general|industrial|machinery|mechanics|repairers
+7233.0102,NCO,Iron & Steel - Machinist,Agricultural and Industrial Machinery Mechanics and Repairers,Capital Goods & Manufacturing,agricultural|industrial|iron & steel|machinery|machinist|mechanics|repairers
+7233.0121,NCO,Fitter Levelling - Alignment & Balancing,Agricultural and Industrial Machinery Mechanics and Repairers,Capital Goods & Manufacturing,agricultural|alignment & balancing|fitter levelling|industrial|machinery|mechanics|repairers
+7233.0301,NCO,Bearing Maintenance,Agricultural and Industrial Machinery Mechanics and Repairers,Capital Goods & Manufacturing,agricultural|industrial|machinery|mechanics|repairers
+7233.0700,NCO,Mechanic - Earth Moving Machinery,Agricultural and Industrial Machinery Mechanics and Repairers,Capital Goods & Manufacturing,agricultural|earth moving machinery|industrial|machinery|mechanic|mechanics|repairers
+7233.2000,NCO,Mechanic; Repairman (Domestic Appliances),Agricultural and Industrial Machinery Mechanics and Repairers,Capital Goods & Manufacturing,agricultural|industrial|machinery|mechanics|repairers
+7311.0200,NCO,Watch Repairer,Precision Instrument Makers and Repairers,Capital Goods & Manufacturing,instrument|precision|repairers
+7311.0401,NCO,Iron & Steel - Fitter Instrumentaion,Precision Instrument Makers and Repairers,Capital Goods & Manufacturing,fitter instrumentaion|instrument|iron & steel|precision|repairers
+7313.0101,NCO,Jewellery Polisher,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.0201,NCO,Component Maker,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.0500,NCO,Gold Foil Maker,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.0700,NCO,Goldsmith,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.0701,NCO,Polisher and Cleaner,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.0803,NCO,Wax Setter (Basic),Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.1001,NCO,Gemstone Rough Cutter,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.1300,NCO,Gem Grinder - Hand,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,gem grinder|hand|jewellery|metal|precision
+7313.1400,NCO,Gem Polisher - Hand,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,gem polisher|hand|jewellery|metal|precision
+7313.1501,NCO,Diamond Assorter (E),Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7313.1504,NCO,Bottom Polisher,Jewellery and Precision Metal Workers,Capital Goods & Manufacturing,jewellery|metal|precision
+7314.1100,NCO,Clay Maker (Pottery),Potters and Related Workers,Capital Goods & Manufacturing,potters
+7315.0100,NCO,Blower - Glass,Glass Makers; Cutters; Grinders and Finishers,Capital Goods & Manufacturing,blower|cutters|finishers|glass|grinders
+7315.0600,NCO,Mouldman (Glass),Glass Makers; Cutters; Grinders and Finishers,Capital Goods & Manufacturing,cutters|finishers|glass|grinders
+7231.0100,NCO,Transportation Mechanic - Automobile,Motor Vehicle Mechanics and Repairers Automobile &,Unclassified,automobile|mechanics|motor|repairers|transportation mechanic|vehicle
+7231.0101,NCO,Transportation Maintenance Technician - Service Workshop,Motor Vehicle Mechanics and Repairers Automobile &,Unclassified,automobile|mechanics|motor|repairers|service workshop|transportation maintenance technician|vehicle
+7231.0401,NCO,Transportation Mechanic or Fitter,Motor Vehicle Mechanics and Repairers Automobile &,Unclassified,automobile|mechanics|motor|repairers|vehicle
+7231.0501,NCO,Transportation Auto Service Technician (Two and Three Wheeler),Motor Vehicle Mechanics and Repairers Automobile &,Unclassified,automobile|mechanics|motor|repairers|vehicle
+8321.0101,NCO,Auto Rickshaw Driver,Motorcycle Drivers Automobile & Transportation,Unclassified,automobile|drivers|motorcycle|transportation
+8322.0100,NCO,Driver - Car,Car; Taxi and Van Drivers Automobile & Transportation,Unclassified,automobile|driver|drivers|transportation
+8322.0201,NCO,Taxi Driver,Car; Taxi and Van Drivers Automobile & Transportation,Unclassified,automobile|drivers|transportation
+8322.0301,NCO,Ambulance Driver,Car; Taxi and Van Drivers Automobile & Transportation,Unclassified,automobile|drivers|transportation
+8331.0300,NCO,Driver - Bus,Bus and Tram Drivers Automobile & Transportation,Unclassified,automobile|driver|drivers|transportation
+8331.0400,NCO,Driver - Fire Brigade Vehicles,Bus and Tram Drivers Automobile & Transportation,Unclassified,automobile|driver|drivers|fire brigade vehicles|transportation
+8332.0100,NCO,Driver - Truck,Heavy Truck and Lorry Drivers Automobile & Transportation,Unclassified,automobile|driver|drivers|heavy|lorry|transportation|truck
+8341.0300,NCO,Transportation Tractor Driver,Mobile Farm and Forestry Plant Operators Automobile &,Unclassified,automobile|forestry|mobile|plant
+8344.9900,NCO,Lift Truck Operator; Other,Lifting Truck Operators Automobile & Transportation,Unclassified,automobile|lifting|transportation|truck
+9122.0201,NCO,Washer,Vehicle Cleaners Automobile & Transportation,Unclassified,automobile|cleaners|transportation|vehicle
+9122.0301,NCO,Driving Assistant/ Cleaner/ Helper,Vehicle Cleaners Automobile & Transportation,Unclassified,automobile|cleaner|cleaners|driving assistant|helper|transportation|vehicle
+9331.0100,NCO,Transportation Driver - Cycle Rikshaw,Hand and Pedal Vehicle Drivers (Cycle Rickshaw and Cart Puller) Automobile &,Unclassified,(cycle|automobile|cycle rikshaw|drivers|pedal|puller)|rickshaw|transportation driver
+9332.0100,NCO,Transportation Horse Carriage Driver,Drivers of Animal-Drawn Vehicles and Machinery Automobile &,Unclassified,animal-drawn|automobile|drivers|machinery|vehicles
+9332.0200,NCO,Automobile & Transportation Cart Driver,Drivers of Animal-Drawn Vehicles and Machinery (bulluck cart; horse carriage etc.),Unclassified,(bulluck|animal-drawn|carriage|drivers|etc.)|horse|machinery|vehicles
+9332.0500,NCO,Automobile & Transportation Supervisor; Animal-Drawn and,Drivers of Animal-Drawn Vehicles and Machinery (bulluck cart; horse carriage etc.),Unclassified,(bulluck|animal-drawn|automobile & transportation supervisor, animal|carriage|drawn and|drivers|etc.)|horse
+4213.9900,NCO,Moneylenders; Other,Pawnbrokers and Moneylenders BFSI Pawnbrokers and,Unclassified,moneylenders|pawnbrokers
+4214.9900,NCO,Workers; Other,Debt Collectors and Related Workers BFSI Debt Collectors and Related,Unclassified,collectors
+3118.0402,NCO,Draughtsman - Mechanical,Draughtpersons,Capital Goods & Manufacturing,draughtpersons|draughtsman|mechanical
+3135.0500,NCO,Mixerman,Metal Production Process Controllers,Capital Goods & Manufacturing,controllers|metal|process|production
+7211.0500,NCO,Core Maker; Moulding (Hand),Metal Moulders and Core Makers,Capital Goods & Manufacturing,metal|moulders
+7212.0301,NCO,Welder,Welders and Flame Cutters,Capital Goods & Manufacturing,cutters|flame|welders
+7212.0402,NCO,Iron & Steel Plasma Cutter: Manual,Welders and Flame Cutters,Capital Goods & Manufacturing,cutters|flame|welders
+7212.0801,NCO,Welding Helper,Welders and Flame Cutters,Capital Goods & Manufacturing,cutters|flame|welders
+6113.0501,NCO,Green House Fitter,Gardeners and Nursery Growers,Agriculture,gardeners|nursery
+6113.0601,NCO,Floriculturist,Gardeners and Nursery Growers,Agriculture,gardeners|nursery
+6121.0201,NCO,Dairy Farmer,Livestock and Dairy Producers,Agriculture,dairy|livestock|producers
+6121.0400,NCO,Herdsman,Livestock and Dairy Producers,Agriculture,dairy|livestock|producers
+6121.0901,NCO,Dairy Worker,Livestock and Dairy Producers,Agriculture,dairy|livestock|producers
+6121.1000,NCO,Stableman,Livestock and Dairy Producers,Agriculture,dairy|livestock|producers
+6121.1100,NCO,Mahout,Livestock and Dairy Producers,Agriculture,dairy|livestock|producers
+6122.0200,NCO,Farmer - Poultry Breeding,Poultry Producers,Agriculture,farmer|poultry|poultry breeding|producers
+6122.0301,NCO,Broiler Farm Worker,Poultry Producers,Agriculture,poultry|producers
+6123.0101,NCO,Bee Farmer,Apiarists (Bee Keepers) and Sericulturists,Agriculture,apiarists|keepers)|sericulturists
+6123.0201,NCO,Sericulturist,Apiarists (Bee Keepers) and Sericulturists,Agriculture,apiarists|keepers)|sericulturists
+6210.0200,NCO,Forest Guard,Forestry and Related Workers,Agriculture,forestry
+6210.0500,NCO,Gatherer - Lac,Forestry and Related Workers,Agriculture,forestry|gatherer
+6210.0600,NCO,Gatherer - Medicinal Herbs,Forestry and Related Workers,Agriculture,forestry|gatherer|medicinal herbs
+6210.0700,NCO,Gatherer - Firewood,Forestry and Related Workers,Agriculture,firewood|forestry|gatherer
+6210.1100,NCO,Wood Cutter,Forestry and Related Workers,Agriculture,forestry
+6222.0100,NCO,Fisherman,Fishery and Aquaculture Labourers,Agriculture,aquaculture|fishery|labourers
+8341.0101,NCO,Tractor Operator,Mobile Farm and Forestry Plant Operators,Agriculture,forestry|mobile|plant
+8341.0200,NCO,Farm Machines Operator,Mobile Farm and Forestry Plant Operators,Agriculture,forestry|mobile|plant
+9211.0100,NCO,Ploughman,Crop Farm Labourers,Agriculture,labourers
+9211.0200,NCO,Labourer - Agricultural,Crop Farm Labourers,Agriculture,agricultural|labourer|labourers
+9215.0100,NCO,Labourer - Plantation,Forestry Labourers,Agriculture,forestry|labourer|labourers|plantation
+7531.0100,NCO,Tailor - General,Tailors; Dressmakers; Furriers and Hatters Apparel,Unclassified,apparel|dressmakers|furriers|general|hatters|tailor|tailors
+7531.0700,NCO,Hat Maker - General,Tailors; Dressmakers; Furriers and Hatters Apparel,Unclassified,apparel|dressmakers|furriers|general|hat maker|hatters|tailors
+7531.1000,NCO,Wig Maker,Tailors; Dressmakers; Furriers and Hatters Apparel,Unclassified,apparel|dressmakers|furriers|hatters|tailors
+7531.1200,NCO,Tailor - Fur,Tailors; Dressmakers; Furriers and Hatters Apparel,Unclassified,apparel|dressmakers|furriers|hatters|tailor|tailors
+7531.1300,NCO,Pattern Maker - Fur,Tailors; Dressmakers; Furriers and Hatters Apparel,Unclassified,apparel|dressmakers|furriers|hatters|pattern maker|tailors
+7531.1500,NCO,Cutter - Fur,Tailors; Dressmakers; Furriers and Hatters Apparel,Unclassified,apparel|cutter|dressmakers|furriers|hatters|tailors
+7532.0700,NCO,Cutter - Hand (Textile Product),Garment and Related Pattern Makers and Cutters Apparel,Unclassified,apparel|cutter|cutters|garment|hand (textile product)|pattern
+7532.1000,NCO,Cutter - Garment (Leather),Garment and Related Pattern Makers and Cutters Apparel,Unclassified,apparel|cutter|cutters|garment|garment (leather)|pattern
+7532.1300,NCO,Cutter - Tent,Garment and Related Pattern Makers and Cutters Apparel,Unclassified,apparel|cutter|cutters|garment|pattern|tent
+7533.0100,NCO,Sewer - Hand,Sewing; Embroiderers and Related Workers Apparel,Unclassified,apparel|embroiderers|hand|sewer|sewing
+7533.0201,NCO,Hand Embroiderer,Sewing; Embroiderers and Related Workers Apparel,Unclassified,apparel|embroiderers|sewing
+7533.0800,NCO,Umbrella Maker,Sewing; Embroiderers and Related Workers Apparel,Unclassified,apparel|embroiderers|sewing
+7533.1100,NCO,Tailor; Tent (Machine),Sewing; Embroiderers and Related Workers Apparel,Unclassified,apparel|embroiderers|sewing
+7543.0302,NCO,In Line Checker,Product Graders and Testers (Excluding Food and Beverages) Apparel,Unclassified,(excluding|apparel|beverages)|graders|product|testers
+5112.1000,NCO,Bus Conductor,Transport Conductors Automobile & Transportation,Unclassified,automobile|conductors|transport|transportation
+5165.0101,NCO,Commercial Vehicle Driver Trainer,Driving Instructors Automobile & Transportation,Unclassified,automobile|driving|instructors|transportation
+7132.0205,NCO,Painter,Spray Painters and Varnishers Automobile & Transportation,Unclassified,automobile|painters|spray|transportation|varnishers
+7413.0100,NCO,Lineman - Light and Power,Electrical Line Installers and Repairers,Construction,electrical|installers|light and power|lineman|repairers
+7522.0100,NCO,Furniture Maker - Wood,Cabinet Makers and Related Workers,Construction,cabinet|furniture maker|wood
+7522.1800,NCO,Sports Goods Maker - Wood,Cabinet Makers and Related Workers,Construction,cabinet|sports goods maker|wood
+7522.2000,NCO,Wood Polisher,Cabinet Makers and Related Workers,Construction,cabinet
+8114.0100,NCO,Polishing Machine Operator (Mosaic),Cement; Stone and Other Mineral Products Machine Operators,Construction,cement|machine|mineral|products|stone
+8114.0300,NCO,Concrete Mixer Operator,Cement; Stone and Other Mineral Products Machine Operators,Construction,cement|machine|mineral|products|stone
+8342.0101,NCO,Bulldozer Operator,Earth Moving and Related Plant Operators,Construction,earth|moving|plant
+8342.0301,NCO,Loader Operator,Earth Moving and Related Plant Operators,Construction,earth|moving|plant
+8342.0501,NCO,Excavator Operator,Earth Moving and Related Plant Operators,Construction,earth|moving|plant
+9313.0201,NCO,Bar Bender & Fixer,Building Construction Workers,Construction,building|construction
+9313.0301,NCO,Helper Mason,Building Construction Workers,Construction,building|construction
+9313.0501,NCO,Helper Electrician,Building Construction Workers,Construction,building|construction
+5120.0300,NCO,Cook; Domestic,Domestic Cooks Domestic and Household Workers,Unclassified,cooks|domestic|household
+5120.0500,NCO,Kitchen Porter,Domestic Cooks Domestic and Household Workers,Unclassified,cooks|domestic|household
+5120.0600,NCO,Pantry man,Domestic Cooks Domestic and Household Workers,Unclassified,cooks|domestic|household
+9111.9900,NCO,Domestic and Related Helpers; Cleaners and Launderers; Other,Domestic Cleaners and Helpers Domestic and Household Workers,Unclassified,cleaners|domestic|helpers|household
+3521.9900,NCO,Broadcasting and Audiovisual Technicians/ Cine Workers/ Script Writer/ Content,Broadcasting and Audiovisual Technicians/ Cine Workers Electronics & HW,Unclassified,audiovisual|broadcasting|broadcasting and audiovisual technicians|cine workers|content|electronics|script writer|technicians/
+3522.0100,NCO,Technician - Telecommunication,Telecommunication Engineering Technicians Electronics & HW,Unclassified,electronics|engineering|technician|technicians|telecommunication
+7421.0300,NCO,Electronic Mechanic,Electronic Mechanics and Servicers (home appliances etc) Electronics & HW,Unclassified,(home|appliances|electronic|electronics|mechanics|servicers
+7421.0701,NCO,Field Technician - Other Home Appliances,Electronic Mechanics and Servicers (home appliances etc) Electronics & HW,Unclassified,(home|appliances|electronic|electronics|field technician|mechanics|other home appliances|servicers
+7421.1301,NCO,TV Repair Technician,Electronic Mechanics and Servicers (home appliances etc) Electronics & HW,Unclassified,(home|appliances|electronic|electronics|mechanics|servicers
+7421.1401,NCO,Solar Panel Installation Technician,Electronic Mechanics and Servicers (home appliances etc) Electronics & HW,Unclassified,(home|appliances|electronic|electronics|mechanics|servicers
+7422.0100,NCO,etc) Electronics & HW Installation Mechanic,Information and Communications Technology Installers and Servicers (networking and surveillance workers,Unclassified,(networking|communications|information|installers|servicers|surveillance|technology
+7422.0400,NCO,etc) Electronics & HW Lineman - Telephone and,Information and Communications Technology Installers and Servicers (networking and surveillance workers,Unclassified,(networking|communications|etc) electronics & hw lineman|information|installers|servicers|surveillance|technology
+7422.1203,NCO,etc) Electronics & HW Set top Box Installer; Technician,Information and Communications Technology Installers and Servicers (networking and surveillance workers,Unclassified,(networking|communications|information|installers|servicers|surveillance|technology
+7422.2001,NCO,etc) Electronics & HW Field Technician - Computing,Information and Communications Technology Installers and Servicers (networking and surveillance workers,Unclassified,(networking|communications|computing|etc) electronics & hw field technician|information|installers|servicers|surveillance
+7422.2002,NCO,etc) Electronics & HW Installation Technician,Information and Communications Technology Installers and Servicers (networking and surveillance workers,Unclassified,(networking|communications|information|installers|servicers|surveillance|technology
+7422.2101,NCO,etc) Electronics & HW Field Technician - Networking,Information and Communications Technology Installers and Servicers (networking and surveillance workers,Unclassified,(networking|communications|etc) electronics & hw field technician|information|installers|networking|servicers|surveillance
+7422.2301,NCO,etc) Electronics & HW Smartphones Repair Technician,Information and Communications Technology Installers and Servicers (networking and surveillance workers,Unclassified,(networking|communications|information|installers|servicers|surveillance|technology
+8212.0400,NCO,Assembler; Electrical Accessories,Electrical and Electronic Equipment Assemblers Electronics & HW,Unclassified,assemblers|electrical|electronic|electronics|equipment
+3132.0100,NCO,Ice Maker,Incinerator and Water Treatment Plant Operators Food Industry,Unclassified,incinerator|industry|plant|treatment|water
+7511.0100,NCO,Butcher,Butchers; Fishmongers and Related Food Preparers Food Industry,Unclassified,butchers|fishmongers|industry|preparers
+7511.0300,NCO,Sausage Maker,Butchers; Fishmongers and Related Food Preparers Food Industry,Unclassified,butchers|fishmongers|industry|preparers
+7512.0100,NCO,Baker (Baking Products),Bakers; Pastry Cooks and Confectionery Makers Food Industry,Unclassified,bakers|confectionery|cooks|industry|pastry
+7512.0500,NCO,Candy Maker,Bakers; Pastry Cooks and Confectionery Makers Food Industry,Unclassified,bakers|confectionery|cooks|industry|pastry
+7514.0100,NCO,Oil Expeller Man,Fruits; Vegetables and Related Preservers Food Industry,Unclassified,fruits|industry|preservers|vegetables
+7514.0200,NCO,Oil Crusher Operator - Animal Driven,Fruits; Vegetables and Related Preservers Food Industry,Unclassified,animal driven|fruits|industry|oil crusher operator|preservers|vegetables
+7514.1000,NCO,Pickler (Can & Preservation),Fruits; Vegetables and Related Preservers Food Industry,Unclassified,fruits|industry|preservers|vegetables
+8160.0700,NCO,Miller - Food Grains,Food and Related Products Machine Operators Food Industry,Unclassified,food grains|industry|machine|miller|products
+8160.1000,NCO,Flour Mill Operator,Food and Related Products Machine Operators Food Industry,Unclassified,industry|machine|products
+8160.2400,NCO,Fruit Press Operator (Food Canning and Preserving),Food and Related Products Machine Operators Food Industry,Unclassified,industry|machine|products
+8160.3400,NCO,Crusher Operator - Sugarcane,Food and Related Products Machine Operators Food Industry,Unclassified,crusher operator|industry|machine|products|sugarcane
+8160.5700,NCO,Tea Vendor,Food and Related Products Machine Operators Food Industry,Unclassified,industry|machine|products
+8160.7500,NCO,Pasteuriser; Brewery,Food and Related Products Machine Operators Food Industry,Unclassified,industry|machine|products
+8189.0100,NCO,Gem Grinder; Machine,Gem and Jewellery Machine Operators (Artisans and Workers) Gem & Jewellery,Unclassified,(artisans|jewellery|machine|workers)
+8189.0200,NCO,Gem Polisher; Machine,Gem and Jewellery Machine Operators (Artisans and Workers) Gem & Jewellery,Unclassified,(artisans|jewellery|machine|workers)
+8181.1700,NCO,Kilnman; Brick and Tile,Glass and Ceramics Plant Operators and workers Glass & Ceramics,Unclassified,ceramics|glass|plant
+7316.0100,NCO,Carpets Engraver - Glass,Signwriter; Decorative Painters; Engravers and Etchers Handicrafts &,Unclassified,carpets engraver|decorative|engravers|etchers|glass|handicrafts|painters|signwriter
+7316.0700,NCO,Carpets Hand Painter (Ceramics),Signwriter; Decorative Painters; Engravers and Etchers Handicrafts &,Unclassified,decorative|engravers|etchers|handicrafts|painters|signwriter
+7317.0300,NCO,Carpets Furniture Maker - Bamboo,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,bamboo|basketry|carpets furniture maker|handicraft|handicrafts|materials
+7317.0700,NCO,Carpets Basket Maker,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,basketry|handicraft|handicrafts|materials
+7317.0800,NCO,Carpets Mat Weaver - Bamboo,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,bamboo|basketry|carpets mat weaver|handicraft|handicrafts|materials
+7317.0900,NCO,Carpets Mat Weaver - Grass and Leave,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,basketry|carpets mat weaver|grass and leave|handicraft|handicrafts|materials
+7317.1000,NCO,Carpets Broom Maker,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,basketry|handicraft|handicrafts|materials
+7317.1100,NCO,Carpets Chick Maker,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,basketry|handicraft|handicrafts|materials
+7317.1200,NCO,Carpets Khas Thatti Maker,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,basketry|handicraft|handicrafts|materials
+7317.1400,NCO,Carpets Brush Maker - Hand,Handicraft Workers in Wood; Basketry and Related Materials Handicrafts &,Unclassified,basketry|carpets brush maker|hand|handicraft|handicrafts|materials
+7318.0100,NCO,Handicrafts & Carpets Candle Maker,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|handicraft|leather|materials|textiles
+7318.0500,NCO,Handicrafts & Carpets Hand Printer - Textile/ Hand,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|hand|handicraft|handicrafts & carpets hand printer|leather|materials|textile|textiles
+7318.0600,NCO,Handicrafts & Carpets Hand Dyer,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|handicraft|leather|materials|textiles
+7318.2700,NCO,Handicrafts & Carpets Cardtenter - Cotton/ Carding,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|carding|cotton|handicraft|handicrafts & carpets cardtenter|leather|materials|textiles
+7318.4200,NCO,Handicrafts & Carpets Hand Spinner (Cotton and,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|handicraft|leather|materials|textiles
+7318.5800,NCO,Handicrafts & Carpets Weaver - Handloom,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|handicraft|handicrafts & carpets weaver|handloom|leather|materials|textiles
+7318.5900,NCO,Handicrafts & Carpets Carpet Weaver - Hand Knitting,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|hand knitting|handicraft|handicrafts & carpets carpet weaver|leather|materials|textiles
+7318.6200,NCO,Handicrafts & Carpets Carpet Repairer,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|handicraft|leather|materials|textiles
+7318.6300,NCO,Handicrafts & Carpets Coir Weaver (Matting),Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|handicraft|leather|materials|textiles
+7318.6400,NCO,Handicrafts & Carpets Net Maker - Hand,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|hand|handicraft|handicrafts & carpets net maker|leather|materials|textiles
+7318.6600,NCO,Handicrafts & Carpets Knitter - Hand,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|hand|handicraft|handicrafts & carpets knitter|leather|materials|textiles
+7318.6700,NCO,Handicrafts & Carpets Braid Maker - Hand,Handicraft Workers in Textiles ; Leather and related materials (Carpet Workers etc),Unclassified,(carpet|hand|handicraft|handicrafts & carpets braid maker|leather|materials|textiles
+7522.1400,NCO,Toy Maker,Cabinet Makers and Related Workers Handicrafts & Carpets,Unclassified,cabinet|carpets|handicrafts
+7522.1600,NCO,Picture Frame Maker,Cabinet Makers and Related Workers Handicrafts & Carpets,Unclassified,cabinet|carpets|handicrafts
+8152.9900,NCO,Handicrafts & Carpets Weaving and Knitting Machine,Weaving and Knitting Machine Operators (Machine Carpet Weavers etc),Unclassified,(machine|carpet|knitting|machine|weavers|weaving
+2240.0400,NCO,Dresser,Paramedical Practitioners,Healthcare,paramedical|practitioners
+2265.9900,NCO,Dieticians and Nutritionists; Other,Dietician/Diet Assistants,Healthcare,assistants|dietician/diet
+3212.0601,NCO,Phlebotomy Technician,Phlebotomy Technicians,Healthcare,phlebotomy|technicians
+3213.0101,NCO,Pharmacy Assistant,Pharmaceutical Technicians and Assistants,Healthcare,assistants|pharmaceutical|technicians
+3221.0100,NCO,Nurse - Institution,Nursing Associate Professionals,Healthcare,associate|institution|nurse|nursing|professionals
+3222.0300,NCO,Lady Health Visitor/ASHA Worker/Anganwadi Worker,Anganwadi and Aasha Workers etc.,Healthcare,aasha|anganwadi|anganwadi worker|asha worker|lady health visitor
+3252.0101,NCO,Medical Records and Health Information Technician,Medical Record Assistant,Healthcare,assistant|medical|record
+3253.9900,NCO,Support; Advanced Care Support; Basic Care Support ) Healthcare,Front line Workers (For COVID and other Medical Equipment Support; Home Care Support; Emergency Care,Unclassified,covid|emergency|equipment|front|medical|support
+3255.0101,NCO,Assistant Physiotherapist,Therapy Assistants (Yoga etc.),Healthcare,(yoga|assistants|etc.)|therapy
+3256.9900,NCO,Medical Assistants; Other,Therapy Assistants (Yoga etc.),Healthcare,(yoga|assistants|etc.)|therapy
+5311.0100,NCO,Ayah - Institutional,Child Care Workers; Ayah;Governess,Healthcare,ayah|child|governess|institutional
+5311.0200,NCO,Child Care Worker,Child Care Workers; Ayah;Governess,Healthcare,child|governess
+5311.0400,NCO,Ayah - Domestic,Child Care Workers,Healthcare,ayah|child|domestic
+5322.0101,NCO,Nurse - Domestic/ Home,Home-Based Personal Care Workers (home health aids; Nurses; etc.),Healthcare,(home|domestic|etc.)|health|home|home-based|nurse|nurses
+5329.0101,NCO,Ward Boy,Personal Care Workers in Health Services Not Elsewhere Classified,Healthcare,health|personal|services
+6116.0112,NCO,Community Service Provider,Miscellaneous (sample collectors; distributers),Healthcare,(sample|collectors|distributers)|miscellaneous
+7535.1400,NCO,Dyer - Leather,Pelt Dressers; Tanners and Fellmongers Leather Industry Works,Unclassified,dressers|dyer|fellmongers|industry|leather|tanners|works
+7536.0100,NCO,Shoemaker,Shoemakers and Related Workers Leather Industry Works,Unclassified,industry|leather|shoemakers|works
+7536.0300,NCO,Shoe Repairer - Cobbler,Shoemakers and Related Workers Leather Industry Works,Unclassified,cobbler|industry|leather|shoe repairer|shoemakers|works
+7536.2700,NCO,Horn Comb Maker (Hand),Shoemakers and Related Workers Leather Industry Works,Unclassified,industry|leather|shoemakers|works
+8156.2601,NCO,Works Helper/ Worker,Shoe Making and Related Machine Operators Leather Industry,Unclassified,industry|leather|machine|making|worker|works helper
+7119.0100,NCO,Well Digger,Building Frame and Related Traders,Mining,building|frame|traders
+7542.0100,NCO,Shot Firer,Shotfirers and Blasters,Mining,blasters|shotfirers
+8111.0500,NCO,Pick Miners,Miners and Quarriers,Mining,miners|quarriers
+8111.2200,NCO,Driller - Hand,Miners and Quarriers,Mining,driller|hand|miners|quarriers
+8112.9900,NCO,Mineral and Stone Processing Plant Operators; Other,Crusher Operator; Mineral,Mining,crusher|mineral|operator
+8113.0300,NCO,Mudman,Well Drillers and Borers and Related Workers,Mining,borers|drillers
+8343.0700,NCO,Overhead Crane Operator,Crane; Hoist and Related Plant Operators,Mining,crane|hoist|plant
+8343.1800,NCO,Liftman,Crane; Hoist and Related Plant Operators,Mining,crane|hoist|plant
+9311.0100,NCO,Mines; Quarrymen; Related Workers,Mining and Quarrying Labourers,Mining,labourers|mining|quarrying
+2166.0201,NCO,Animator/Animator,Graphic and Multimedia Designers Miscellaneous Multimedia Artist and,Unclassified,animator|artist|designers|graphic|miscellaneous|multimedia
+3132.0400,NCO,Plant Operator (Waste water),Incinerator and Water Treatment Plant Operators Miscellaneous,Unclassified,incinerator|miscellaneous|plant|treatment|water
+3132.1000,NCO,Pumpman,Incinerator and Water Treatment Plant Operators Miscellaneous,Unclassified,incinerator|miscellaneous|plant|treatment|water
+3422.0100,NCO,Athletic Coach,Sports Coaches; Instructors and Officials Miscellaneous,Unclassified,coaches|instructors|miscellaneous|officials|sports
+3422.0201,NCO,Sports Coach,Sports Coaches; Instructors and Officials Miscellaneous,Unclassified,coaches|instructors|miscellaneous|officials|sports
+3422.0300,NCO,Riding Instructor,Sports Coaches; Instructors and Officials Miscellaneous,Unclassified,coaches|instructors|miscellaneous|officials|sports
+3422.0400,NCO,Umpire,Sports Coaches; Instructors and Officials Miscellaneous,Unclassified,coaches|instructors|miscellaneous|officials|sports
+3422.0500,NCO,Marker/ Groundsmen & Women,Sports Coaches; Instructors and Officials Miscellaneous,Unclassified,coaches|groundsmen & women|instructors|marker|miscellaneous|officials|sports
+3423.0101,NCO,Fitness Trainer/ Fitness Instructor,Fitness and Recreation Instructors; and Programme Leaders Miscellaneous,Unclassified,fitness|fitness instructor|fitness trainer|instructors|leaders|miscellaneous|programme|recreation
+3423.0501,NCO,Lifeguard,Fitness and Recreation Instructors; and Programme Leaders Miscellaneous,Unclassified,fitness|instructors|leaders|miscellaneous|programme|recreation
+3435.0100,NCO,Tattoo Artist,Other Artistic and Cultural Associates (Tattoo Artist; Floral Designer) Miscellaneous,Unclassified,(tattoo|artist|artistic|associates|cultural|designer)|floral|miscellaneous
+3435.9900,NCO,Other Artistic and Cultural Associate Professionals; Lok Kalakar; Other,Other Artistic and Cultural Associate Professionals/ Lok Kalakar Miscellaneous,Unclassified,artistic|associate|cultural|kalakar|miscellaneous|professionals/
+4226.0201,NCO,Showroom Hostess,Receptionist (General) & Front Desk Assistants Miscellaneous,Unclassified,(general)|assistants|front|miscellaneous|receptionist
+4321.0601,NCO,Godown Workers,Stock Clerks Miscellaneous Warehouse Worker/ Railway,Unclassified,clerks|miscellaneous|railway|stock|warehouse|worker/
+5152.0100,NCO,(Domestic),Domestic Housekeepers Miscellaneous Caretaker - House Keeper,Unclassified,caretaker|domestic|house|housekeepers|keeper|miscellaneous
+5211.0301,NCO,Miscellaneous Sales Executive - Dealership,Stall and Market Salespersons (Tellecaller; Shop Attendant/Sales Assistant),Unclassified,(tellecaller|assistant)|attendant/sales|dealership|market|miscellaneous sales executive|salespersons|stall
+5211.0302,NCO,Miscellaneous Tele - caller,Stall and Market Salespersons (Tellecaller; Shop Attendant/Sales Assistant),Unclassified,(tellecaller|assistant)|attendant/sales|caller|market|miscellaneous tele|salespersons|stall
+5243.0100,NCO,Miscellaneous News Paper Boy,Delivery Boy/ Partner/ Delivery Associate for food & grocery/ Door-to- Door Salespersons (Hawkers etc),Unclassified,(hawkers|associate|delivery|door-to-|grocery/|partner/|salespersons
+5243.0300,NCO,Miscellaneous Home Deliveryman,Delivery Boy/ Partner/ Delivery Associate for food & grocery/ Door-to- Door Salespersons (Hawkers etc),Unclassified,(hawkers|associate|delivery|door-to-|grocery/|partner/|salespersons
+5243.0401,NCO,Miscellaneous Distributor Sales Representative,Delivery Boy/ Partner/ Delivery Associate for food & grocery/ Door-to- Door Salespersons (Hawkers etc),Unclassified,(hawkers|associate|delivery|door-to-|grocery/|partner/|salespersons
+5243.0501,NCO,Miscellaneous Field Sales Executive (FSE),Delivery Boy/ Partner/ Delivery Associate for food & grocery/ Door-to- Door Salespersons (Hawkers etc),Unclassified,(hawkers|associate|delivery|door-to-|grocery/|partner/|salespersons
+5243.9900,NCO,Miscellaneous Delivery Boy/ Partner/ Delivery Associate for food & grocery/,Delivery Boy/ Partner/ Delivery Associate for food & grocery/ Door-to- Door Salespersons (Hawkers etc),Unclassified,(hawkers|associate|delivery|delivery associate for food & grocery|door-to-|grocery/|miscellaneous delivery boy|partner
+8350.0600,NCO,Boat Rower,Ships? Deck Crews and Related Workers Miscellaneous,Unclassified,crews|miscellaneous|ships?
+9520.0100,NCO,Hawker,Street Vendors (Food and Excluding Food) Miscellaneous,Unclassified,(food|excluding|food)|miscellaneous|street|vendors
+9520.9900,NCO,Street Vendors; Non-Food Products; Other,Street Vendors (Food and Excluding Food) Miscellaneous,Unclassified,(food|excluding|food products, other|food)|miscellaneous|street|street vendors, non|vendors
+9621.0400,NCO,Bellboy (Hotel & Restaurant),Messengers; Package Deliverers & Luggage Porters Miscellaneous,Unclassified,deliverers|luggage|messengers|miscellaneous|package|porters
+9621.0501,NCO,Tyre Inflation Attendant,Messengers; Package Deliverers & Luggage Porters Miscellaneous,Unclassified,deliverers|luggage|messengers|miscellaneous|package|porters
+9621.0900,NCO,Sorter - Mail,Messengers; Package Deliverers & Luggage Porters Miscellaneous,Unclassified,deliverers|luggage|mail|messengers|miscellaneous|package|porters|sorter
+9621.9900,NCO,Messengers; Package Deliverers and Luggage Porters; Other,Messengers; Package Deliverers & Luggage Porters Miscellaneous,Unclassified,deliverers|luggage|messengers|miscellaneous|package|porters
+9623.0300,NCO,Meter Reader,Meter Readers and Vending Machine Collectors Miscellaneous,Unclassified,collectors|machine|meter|miscellaneous|readers|vending
+9623.0501,NCO,Tyre Inflation Attendant,Meter Readers and Vending Machine Collectors Miscellaneous,Unclassified,collectors|machine|meter|miscellaneous|readers|vending
+2652.0300,NCO,Singer,Musicians/ Singers/ Composers/ Band Baja Players Musical Instruments,Unclassified,composers/|instruments|musical|musicians/|players|singers/
+2652.9900,NCO,Musicians/ Singers/ Composers/ Band Baja Players; Others,Musicians/ Singers/ Composers/ Band Baja Players Musical Instruments,Unclassified,band baja players, others|composers|composers/|instruments|musical|musicians|musicians/|players
+7312.1300,NCO,Instrument),Musical Instrument Makers and Tuners Musical Instruments Tabla Maker (Musical,Unclassified,(musical|instrument|instruments|maker|musical|tabla|tuners
+7312.1700,NCO,Assembler,Musical Instrument Makers and Tuners Musical Instruments Brass Musical Instruments,Unclassified,brass|instrument|instruments|musical|tuners
+3341.1000,NCO,Facility Management Office Assistant,Office Supervisors Office Administration &,Unclassified,administration|office|supervisors
+4110.0100,NCO,Facility Management Clerk - General,General Office Clerks Office Administration &,Unclassified,administration|clerks|facility management clerk|general|office
+4131.0600,NCO,Facility Management Computer Operator,Typists and Word Processing Operators Office Administration &,Unclassified,administration|office|processing|typists
+4132.0402,NCO,Facility Management Domestic Data Entry Operator,Data Entry Clerks Office Administration &,Unclassified,administration|clerks|entry|office
+4224.0100,NCO,Facility Management Receptionist,Hotel Receptionists Office Administration &,Unclassified,administration|hotel|office|receptionists
+4419.0500,NCO,Administration & Facility Management,Clerical Support Workers Not Elsewhere Classified Office,Unclassified,clerical|office|support
+9112.9900,NCO,Administration & Facility Management,Cleaners and Helpers in Offices; Hotels and Other Establishments Office,Unclassified,cleaners|establishments|helpers|hotels|office|offices
+4225.0100,NCO,Complaint Attending Clerk/Customer Service Desk/Customer Service,Inquiry Clerks (Shop sale assistants etc.) Organised Retail,Unclassified,(shop|assistants|clerks|complaint attending clerk|customer service|customer service desk|etc.)|inquiry
+7322.1900,NCO,Printing,Printers Printing Machineman - Automatic,Unclassified,automatic|machineman|printers
+8132.9900,NCO,Photographic Products Machine Operators; Other,Photographic Products Machine Operators Printing,Unclassified,machine|photographic|printing|products
+5414.0151,NCO,Armed Security Guard,Security Guards and Security Supervisors Private Security,Unclassified,guards|private|security|supervisors
+5414.0400,NCO,Watchman,Security Guards and Security Supervisors Private Security,Unclassified,guards|private|security|supervisors
+5414.0501,NCO,Gateman / Unarmed Security Guard,Security Guards and Security Supervisors Private Security,Unclassified,gateman|guards|private|security|supervisors|unarmed security guard
+2659.0200,NCO,Acrobat,Creative and Performing Artists Not Elsewhere Classified Professionals,Unclassified,artists|creative|performing|professionals
+2659.0500,NCO,Circus Performers; Other,Creative and Performing Artists Not Elsewhere Classified Professionals,Unclassified,artists|creative|performing|professionals
+2659.0700,NCO,Buffoon - Clown,Creative and Performing Artists Not Elsewhere Classified Professionals,Unclassified,artists|buffoon|clown|creative|performing|professionals
+2659.0900,NCO,Magician,Creative and Performing Artists Not Elsewhere Classified Professionals,Unclassified,artists|creative|performing|professionals
+2659.1100,NCO,Snake charmer,Creative and Performing Artists Not Elsewhere Classified Professionals,Unclassified,artists|creative|performing|professionals
+2659.1200,NCO,Puppeteer,Creative and Performing Artists Not Elsewhere Classified Professionals,Unclassified,artists|creative|performing|professionals
+3411.9900,NCO,Professionals; Other,Legal and Related Associate Workers Professionals Legal and Related Associate,Unclassified,associate|legal|professionals
+3412.9900,NCO,Professionals,Social Work Associate Workers Professionals Social Work Associate,Unclassified,associate|social
+5223.0100,NCO,Shop Assistant,Shop Sales Assistants,Retail,assistants|sales
+9121.0200,NCO,Sorter),Hand Launderers and Pressers Service Laundary Workers (Marker -,Unclassified,(marker|laundary|launderers|pressers|service
+8151.9900,NCO,Fibre Preparing; Spinning and Winding Machine Operators; Other,Fibre Preparing; Spinning and Winding Machine Operators Textile & Handloom,Unclassified,fibre|handloom|machine|preparing|spinning|textile|winding
+8154.1200,NCO,Wool Dyer,Bleaching; Dyeing and Cleaning Machine Operators Textile & Handloom,Unclassified,bleaching|cleaning|dyeing|handloom|machine|textile
+7516.0200,NCO,Tobacco Industry Tobacco Grader,Tobacco Preparers and Tobacco Products (Bidi Makers; Snuff Makers and Chewing Tobacco Makers),Unclassified,(bidi|chewing|makers)|preparers|products|snuff|tobacco
+7516.0500,NCO,Tobacco Industry Cigar or Cheroot Roller,Tobacco Preparers and Tobacco Products (Bidi Makers; Snuff Makers and Chewing Tobacco Makers),Unclassified,(bidi|chewing|makers)|preparers|products|snuff|tobacco
+7516.0700,NCO,Tobacco Industry Bidi Maker,Tobacco Preparers and Tobacco Products (Bidi Makers; Snuff Makers and Chewing Tobacco Makers),Unclassified,(bidi|chewing|makers)|preparers|products|snuff|tobacco
+7516.0900,NCO,Tobacco Industry Bidi Checker,Tobacco Preparers and Tobacco Products (Bidi Makers; Snuff Makers and Chewing Tobacco Makers),Unclassified,(bidi|chewing|makers)|preparers|products|snuff|tobacco
+7516.1100,NCO,Tobacco Industry Chewing Tobacco Maker,Tobacco Preparers and Tobacco Products (Bidi Makers; Snuff Makers and Chewing Tobacco Makers),Unclassified,(bidi|chewing|makers)|preparers|products|snuff|tobacco
+4212.0100,NCO,Booking Clerk,Bookmakers; Croupiers and Related Gaming Workers Tourism &,Hospitality,bookmakers|croupiers|gaming|tourism
+5113.0100,NCO,Travel Agent,Travel Guides Tourism &,Hospitality,guides|tourism|travel
+5113.0200,NCO,Tourist Guide,Travel Guides Tourism &,Hospitality,guides|tourism|travel
+5120.0200,NCO,Cooks (restaurent/Shaba/Hotel/Party),Cook Institutional Tourism &,Hospitality,cooks (restaurent|hotel|institutional|party)|shaba|tourism
+5131.0401,NCO,Waiter (Food & Beverage Service Steward),Waiters Tourism &,Hospitality,tourism|waiters
+5132.0100,NCO,Waiter (Bartender),Bartenders Tourism &,Hospitality,bartenders|tourism
+5151.0202,NCO,Tourism & Hospitality Room Attendant,Cleaning and Housekeeping Supervisors in Offices; Hotels and Other Establishments,Unclassified,cleaning|establishments|hotels|housekeeping|offices|supervisors
+5151.0500,NCO,Tourism & Hospitality Linen Keeper,Cleaning and Housekeeping Supervisors in Offices; Hotels and Other Establishments,Unclassified,cleaning|establishments|hotels|housekeeping|offices|supervisors
+5151.0600,NCO,Tourism & Hospitality Caretaker - Hotel and,Cleaning and Housekeeping Supervisors in Offices; Hotels and Other Establishments,Unclassified,cleaning|establishments|hotel and|hotels|housekeeping|offices|supervisors|tourism & hospitality caretaker
+5153.0100,NCO,Caretaker - Building,Building Caretakers Tourism &,Hospitality,building|caretaker|caretakers|tourism
+5153.0300,NCO,Caretaker - Burial Places and Cremation Grounds,Building Caretakers Tourism &,Hospitality,building|burial places and cremation grounds|caretaker|caretakers|tourism
+9412.0100,NCO,Kitchen Helper,Kitchen Helpers Tourism &,Hospitality,helpers|kitchen|tourism
+7523.9900,NCO,Wood Working Machine Setters and Setter Operators; Others,Wood Working Machine Tool Setters and Operators Wood & Carpentry,Unclassified,carpentry|machine|setters|working
+8172.9900,NCO,Operators and Related Workers; Other,Wood Processing Plant Operators Wood & Carpentry Wood Processing Plant,Unclassified,carpentry|plant|processing
+7222.0900,NCO,Armourer,Tool Makers and Related Workers,Capital Goods & Manufacturing,
+7115.0800,NCO,Building,Carpenters and Joiners Wood & Carpentry Lascar Stager; Ship Building; Ship,Unclassified,carpenters|carpentry|joiners|lascar|stager

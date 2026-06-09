@@ -13,6 +13,7 @@ build/
 
 # Vector store — never commit embeddings (can be rebuilt from data/kb/)
 backend/data/chroma/
+database/data/
 
 # Model weights cache (large, re-downloaded at build)
 backend/data/models/

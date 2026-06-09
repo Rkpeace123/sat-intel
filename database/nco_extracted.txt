@@ -1,0 +1,2392 @@
+S.No 
+Occupation Code 
+Sector Name 
+Family Name 
+Job Role/Occupation 
+1 
+6111.0100 
+Field Crop and Vegetable Growers 
+Agriculture 
+Cultivator - General 
+2 
+6111.0200 
+Field Crop and Vegetable Growers 
+Agriculture 
+Cultivator - Crop 
+3 
+6111.0601 
+Field Crop and Vegetable Growers 
+Agriculture 
+Cultivator - Cotton 
+4 
+6111.0800 
+Field Crop and Vegetable Growers 
+Agriculture 
+Cultivator - Fruit (Horticulturist) 
+5 
+6111.1300 
+Field Crop and Vegetable Growers 
+Agriculture 
+Cultivator - Vegetables 
+6 
+6112.0201 
+Tree and Shrub Crop Growers 
+Agriculture 
+Toddy Tapper 
+7 
+6112.0501 
+Tree and Shrub Crop Growers 
+Agriculture 
+Tea Plantation Worker 
+8 
+6112.0601 
+Tree and Shrub Crop Growers 
+Agriculture 
+Coffee Plantation Worker 
+9 
+6112.0701 
+Tree and Shrub Crop Growers 
+Agriculture 
+Bamboo Grower 
+10 
+7315.1000 
+Glass Makers, Cutters, Grinders and 
+Finishers 
+Capital Goods & 
+Manufacturing 
+Bead Maker (Glass) 
+11 
+7315.1100 
+Glass Makers, Cutters, Grinders and 
+Finishers 
+Capital Goods & 
+Manufacturing 
+Optical Worker 
+12 
+7315.1800 
+Glass Makers, Cutters, Grinders and 
+Finishers 
+Capital Goods & 
+Manufacturing 
+Glass Bangles Maker 
+13 
+7412.0203 
+Electrical Mechanics and Fitters 
+Capital Goods & 
+Manufacturing 
+Iron & Steel - Fitter Electrical 
+Assembly 
+14 
+8122.6700 
+Metal Finishing, Plating and Coating 
+Machine Operators 
+Capital Goods & 
+Manufacturing 
+Picker 
+15 
+8131.4200 
+Chemical Products Plant and Machine 
+Operators 
+Capital Goods & 
+Manufacturing 
+Box Making Machine Operator 
+(Match) 
+16 
+8131.4300 
+Chemical Products Plant and Machine 
+Operators 
+Capital Goods & 
+Manufacturing 
+Box Filling Machine Operator 
+(Match) 
+17 
+8131.6200 
+Chemical Products Plant and Machine 
+Operators 
+Capital Goods & 
+Manufacturing 
+Rubber Worker 
+18 
+8131.8800 
+Chemical Products Plant and Machine 
+Operators 
+Capital Goods & 
+Manufacturing 
+Agarbati Maker 
+19 
+8131.8900 
+Chemical Products Plant and Machine 
+Operators 
+Capital Goods & 
+Manufacturing 
+Pencil Maker 
+20 
+8142.1400 
+Plastic Products Machine Operators 
+Capital Goods & 
+Manufacturing 
+Moulder, Hand (Plastic) 
+21 
+8143.0100 
+Paper Products Machine Operators 
+Capital Goods & 
+Manufacturing 
+Cardboard Box Maker 
+22 
+8143.0200 
+Paper Products Machine Operators 
+Capital Goods & 
+Manufacturing 
+Envelope Maker - Machine 
+23 
+8143.0300 
+Paper Products Machine Operators 
+Capital Goods & 
+Manufacturing 
+Bag Maker - Machine 
+24 
+8143.0400 
+Paper Products Machine Operators 
+Capital Goods & 
+Manufacturing 
+Flower Maker - Paper 
+25 
+9329.0300 
+Manufacturing Labourers Not 
+Elsewhere Classified 
+Capital Goods & 
+Manufacturing 
+Salt Reclamation Worker 
+26 
+9329.0701 
+Manufacturing Labourers Not 
+Elsewhere Classified 
+Capital Goods & 
+Manufacturing 
+Accessory Fitter 
+27 
+7111.9900 
+House Builders 
+Construction 
+Builders, Traditional Materials, 
+Other 
+28 
+7112.0100 
+Bricklayers and Related Workers 
+Construction 
+Stone Mason 
+29 
+7112.0200 
+Bricklayers and Related Workers 
+Construction 
+Brick Layerer, Construction 
+30 
+7113.0400 
+Stonemasons, Stone Cutters, Splitters 
+and Carvers 
+Construction 
+Stone Carver/ Stone Cutter/ 
+Stone Dresser/ Stone Polisher 
+
+31 
+7114.9900 
+Concrete Placers, Concrete Finishers 
+and Related Workers 
+Construction 
+Concrete Placers, Concrete 
+Finishers and Related Workers, 
+Other 
+32 
+7115.0100 
+Carpenters and Joiners 
+Construction 
+Carpenter - General 
+33 
+7115.0201 
+Carpenters and Joiners 
+Construction 
+Shuttering Carpenter 
+34 
+7119.0200 
+Building Frame and Related Traders 
+Construction 
+White Washer 
+35 
+7121.9900 
+Roofers 
+Construction 
+Roofers, Other 
+36 
+7122.0100 
+Floor Layers and Tile Setters 
+Construction 
+Tile Setter 
+37 
+7123.0100 
+Plasterers 
+Construction 
+Plasterer 
+38 
+7124.0200 
+Insulation Workers 
+Construction 
+Acoustical Insulator 
+39 
+7125.0300 
+Glaziers 
+Construction 
+Picture Framer 
+40 
+7126.0101 
+Plumbers and Pipe Fitters 
+Construction 
+Plumber/ Sanitation Worker 
+41 
+7127.0100 
+Air-Conditioning and Refrigeration 
+Mechanics 
+Construction 
+Mechanic, Refrigeration and Air-
+Conditioning 
+42 
+7131.0101 
+Painters and Related Workers 
+Construction 
+Assistant Painter & Decorator 
+43 
+7132.0100 
+Spray Painters and Varnishers 
+Construction 
+Painter - General 
+44 
+7214.0800 
+Structural Metal Preparers and 
+Erectors 
+Construction 
+Fitter - Construction 
+45 
+7412.0801 
+Electrical Mechanics and Fitters 
+Construction 
+Maintenance Assistant Helper 
+46 
+7213.0101 
+Sheet Metal Workers 
+Capital Goods & 
+Manufacturing 
+Sheet Metal Worker, General/ 
+Sheet Metal Worker ? Hand 
+Tools and Manually Operated 
+Machines 
+47 
+7215.0101 
+Riggers and Cable Splicers 
+Capital Goods & 
+Manufacturing 
+Rigger - Rigging of Heavy 
+Material 
+48 
+7221.0100 
+Blacksmiths, Hammersmith and 
+Forging Press Workers 
+Capital Goods & 
+Manufacturing 
+Blacksmith/ Ironsmith 
+49 
+7222.0500 
+Tool Makers and Related Workers 
+Capital Goods & 
+Manufacturing 
+Die Maker 
+50 
+7222.0700 
+Tool Makers and Related Workers 
+Capital Goods & 
+Manufacturing 
+Locksmith 
+51 
+7223.6002 
+Metal Working Machine Tool Setters 
+and Operators 
+Capital Goods & 
+Manufacturing 
+CNC Operator - Turning 
+52 
+7224.0100 
+Metal Polishers, Wheel Grinders and 
+Tool Sharpeners 
+Capital Goods & 
+Manufacturing 
+Grinder, General 
+53 
+7224.0500 
+Metal Polishers, Wheel Grinders and 
+Tool Sharpeners 
+Capital Goods & 
+Manufacturing 
+Thread Grinder 
+54 
+7224.0801 
+Metal Polishers, Wheel Grinders and 
+Tool Sharpeners 
+Capital Goods & 
+Manufacturing 
+Polisher 
+55 
+7233.0100 
+Agricultural and Industrial Machinery 
+Mechanics and Repairers 
+Capital Goods & 
+Manufacturing 
+Fitter - General 
+56 
+7233.0102 
+Agricultural and Industrial Machinery 
+Mechanics and Repairers 
+Capital Goods & 
+Manufacturing 
+Iron & Steel - Machinist 
+57 
+7233.0121 
+Agricultural and Industrial Machinery 
+Mechanics and Repairers 
+Capital Goods & 
+Manufacturing 
+Fitter Levelling - Alignment & 
+Balancing 
+58 
+7233.0301 
+Agricultural and Industrial Machinery 
+Mechanics and Repairers 
+Capital Goods & 
+Manufacturing 
+Bearing Maintenance 
+59 
+7233.0700 
+Agricultural and Industrial Machinery 
+Mechanics and Repairers 
+Capital Goods & 
+Manufacturing 
+Mechanic - Earth Moving 
+Machinery 
+60 
+7233.2000 
+Agricultural and Industrial Machinery 
+Mechanics and Repairers 
+Capital Goods & 
+Manufacturing 
+Mechanic, Repairman (Domestic 
+Appliances) 
+
+61 
+7311.0200 
+Precision Instrument Makers and 
+Repairers 
+Capital Goods & 
+Manufacturing 
+Watch Repairer 
+62 
+7311.0401 
+Precision Instrument Makers and 
+Repairers 
+Capital Goods & 
+Manufacturing 
+Iron & Steel - Fitter 
+Instrumentaion 
+63 
+7313.0101 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Jewellery Polisher 
+64 
+7313.0201 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Component Maker 
+65 
+7313.0500 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Gold Foil Maker 
+66 
+7313.0700 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Goldsmith 
+67 
+7313.0701 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Polisher and Cleaner 
+68 
+7313.0803 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Wax Setter (Basic) 
+69 
+7313.1001 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Gemstone Rough Cutter 
+70 
+7313.1300 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Gem Grinder - Hand 
+71 
+7313.1400 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Gem Polisher - Hand 
+72 
+7313.1501 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Diamond Assorter (E) 
+73 
+7313.1504 
+Jewellery and Precision Metal Workers 
+Capital Goods & 
+Manufacturing 
+Bottom Polisher 
+74 
+7314.1100 
+Potters and Related Workers 
+Capital Goods & 
+Manufacturing 
+Clay Maker (Pottery) 
+75 
+7315.0100 
+Glass Makers, Cutters, Grinders and 
+Finishers 
+Capital Goods & 
+Manufacturing 
+Blower - Glass 
+76 
+7315.0600 
+Glass Makers, Cutters, Grinders and 
+Finishers 
+Capital Goods & 
+Manufacturing 
+Mouldman (Glass) 
+77 
+7231.0100 
+Motor Vehicle Mechanics and 
+Repairers 
+Automobile & 
+Transportation 
+Mechanic - Automobile 
+78 
+7231.0101 
+Motor Vehicle Mechanics and 
+Repairers 
+Automobile & 
+Transportation 
+Maintenance Technician - 
+Service Workshop 
+79 
+7231.0401 
+Motor Vehicle Mechanics and 
+Repairers 
+Automobile & 
+Transportation 
+Mechanic or Fitter 
+80 
+7231.0501 
+Motor Vehicle Mechanics and 
+Repairers 
+Automobile & 
+Transportation 
+Auto Service Technician (Two 
+and Three Wheeler) 
+81 
+8321.0101 
+Motorcycle Drivers 
+Automobile & 
+Transportation 
+Auto Rickshaw Driver 
+82 
+8322.0100 
+Car, Taxi and Van Drivers 
+Automobile & 
+Transportation 
+Driver - Car 
+83 
+8322.0201 
+Car, Taxi and Van Drivers 
+Automobile & 
+Transportation 
+Taxi Driver 
+84 
+8322.0301 
+Car, Taxi and Van Drivers 
+Automobile & 
+Transportation 
+Ambulance Driver 
+85 
+8331.0300 
+Bus and Tram Drivers 
+Automobile & 
+Transportation 
+Driver - Bus 
+
+86 
+8331.0400 
+Bus and Tram Drivers 
+Automobile & 
+Transportation 
+Driver - Fire Brigade Vehicles 
+87 
+8332.0100 
+Heavy Truck and Lorry Drivers 
+Automobile & 
+Transportation 
+Driver - Truck 
+88 
+8341.0300 
+Mobile Farm and Forestry Plant 
+Operators 
+Automobile & 
+Transportation 
+Tractor Driver 
+89 
+8344.9900 
+Lifting Truck Operators 
+Automobile & 
+Transportation 
+Lift Truck Operator, Other 
+90 
+9122.0201 
+Vehicle Cleaners 
+Automobile & 
+Transportation 
+Washer 
+91 
+9122.0301 
+Vehicle Cleaners 
+Automobile & 
+Transportation 
+Driving Assistant/ Cleaner/ 
+Helper 
+92 
+9331.0100 
+Hand and Pedal Vehicle Drivers (Cycle 
+Rickshaw and Cart Puller) 
+Automobile & 
+Transportation 
+Driver - Cycle Rikshaw 
+93 
+9332.0100 
+Drivers of Animal-Drawn Vehicles and 
+Machinery 
+Automobile & 
+Transportation 
+Horse Carriage Driver 
+94 
+9332.0200 
+Drivers of Animal-Drawn Vehicles and 
+Machinery (bulluck cart, horse carriage 
+etc.) 
+Automobile & 
+Transportation 
+Cart Driver 
+95 
+9332.0500 
+Drivers of Animal-Drawn Vehicles and 
+Machinery (bulluck cart, horse carriage 
+etc.) 
+Automobile & 
+Transportation 
+Supervisor, Animal-Drawn and 
+Manually Operated Transport 
+Equipment 
+96 
+2264.0400 
+Masseur 
+Beauty & Wellness 
+Physiotherapist/ Assistant 
+97 
+5141.0100 
+Hairdressers, Barber 
+Beauty & Wellness 
+Hair Dresser (Ladies) 
+98 
+5141.0300 
+Hairdressers, Barber 
+Beauty & Wellness 
+Barber 
+99 
+5142.0100 
+Beauticians and Related Workers 
+Beauty & Wellness 
+Beautician 
+100 
+5142.0201 
+Beauticians and Related Workers 
+Beauty & Wellness 
+Pedicurist and Manicurist 
+101 
+5142.0400 
+Beauticians and Related Workers 
+Beauty & Wellness 
+Make-up Man 
+102 
+5142.0500 
+Beauticians and Related Workers 
+Beauty & Wellness 
+Dresser - Stage and Studio 
+103 
+5142.0600 
+Beauticians and Related Workers 
+Beauty & Wellness 
+Wigman 
+104 
+5142.0700 
+Beauticians and Related Workers 
+Beauty & Wellness 
+Bath Attendant 
+105 
+4213.9900 
+Pawnbrokers and Moneylenders 
+BFSI 
+Pawnbrokers and 
+Moneylenders, Other 
+106 
+4214.9900 
+Debt Collectors and Related Workers 
+BFSI 
+Debt Collectors and Related 
+Workers, Other 
+107 
+3118.0402 
+Draughtpersons 
+Capital Goods & 
+Manufacturing 
+Draughtsman - Mechanical 
+108 
+3135.0500 
+Metal Production Process Controllers 
+Capital Goods & 
+Manufacturing 
+Mixerman 
+109 
+7211.0500 
+Metal Moulders and Core Makers 
+Capital Goods & 
+Manufacturing 
+Core Maker, Moulding (Hand) 
+110 
+7212.0301 
+Welders and Flame Cutters 
+Capital Goods & 
+Manufacturing 
+Welder 
+111 
+7212.0402 
+Welders and Flame Cutters 
+Capital Goods & 
+Manufacturing 
+Iron & Steel Plasma Cutter: 
+Manual 
+112 
+7212.0801 
+Welders and Flame Cutters 
+Capital Goods & 
+Manufacturing 
+Welding Helper 
+113 
+6113.0501 
+Gardeners and Nursery Growers 
+Agriculture 
+Green House Fitter 
+114 
+6113.0601 
+Gardeners and Nursery Growers 
+Agriculture 
+Floriculturist 
+115 
+6121.0201 
+Livestock and Dairy Producers 
+Agriculture 
+Dairy Farmer 
+116 
+6121.0400 
+Livestock and Dairy Producers 
+Agriculture 
+Herdsman 
+
+117 
+6121.0901 
+Livestock and Dairy Producers 
+Agriculture 
+Dairy Worker 
+118 
+6121.1000 
+Livestock and Dairy Producers 
+Agriculture 
+Stableman 
+119 
+6121.1100 
+Livestock and Dairy Producers 
+Agriculture 
+Mahout 
+120 
+6122.0200 
+Poultry Producers 
+Agriculture 
+Farmer - Poultry Breeding 
+121 
+6122.0301 
+Poultry Producers 
+Agriculture 
+Broiler Farm Worker 
+122 
+6123.0101 
+Apiarists (Bee Keepers) and 
+Sericulturists 
+Agriculture 
+Bee Farmer 
+123 
+6123.0201 
+Apiarists (Bee Keepers) and 
+Sericulturists 
+Agriculture 
+Sericulturist 
+124 
+6210.0200 
+Forestry and Related Workers 
+Agriculture 
+Forest Guard 
+125 
+6210.0500 
+Forestry and Related Workers 
+Agriculture 
+Gatherer - Lac 
+126 
+6210.0600 
+Forestry and Related Workers 
+Agriculture 
+Gatherer - Medicinal Herbs 
+127 
+6210.0700 
+Forestry and Related Workers 
+Agriculture 
+Gatherer - Firewood 
+128 
+6210.1100 
+Forestry and Related Workers 
+Agriculture 
+Wood Cutter 
+129 
+6222.0100 
+Fishery and Aquaculture Labourers 
+Agriculture 
+Fisherman 
+130 
+8341.0101 
+Mobile Farm and Forestry Plant 
+Operators 
+Agriculture 
+Tractor Operator 
+131 
+8341.0200 
+Mobile Farm and Forestry Plant 
+Operators 
+Agriculture 
+Farm Machines Operator 
+132 
+9211.0100 
+Crop Farm Labourers 
+Agriculture 
+Ploughman 
+133 
+9211.0200 
+Crop Farm Labourers 
+Agriculture 
+Labourer - Agricultural 
+134 
+9215.0100 
+Forestry Labourers 
+Agriculture 
+Labourer - Plantation 
+135 
+7531.0100 
+Tailors, Dressmakers, Furriers and 
+Hatters 
+Apparel 
+Tailor - General 
+136 
+7531.0700 
+Tailors, Dressmakers, Furriers and 
+Hatters 
+Apparel 
+Hat Maker - General 
+137 
+7531.1000 
+Tailors, Dressmakers, Furriers and 
+Hatters 
+Apparel 
+Wig Maker 
+138 
+7531.1200 
+Tailors, Dressmakers, Furriers and 
+Hatters 
+Apparel 
+Tailor - Fur 
+139 
+7531.1300 
+Tailors, Dressmakers, Furriers and 
+Hatters 
+Apparel 
+Pattern Maker - Fur 
+140 
+7531.1500 
+Tailors, Dressmakers, Furriers and 
+Hatters 
+Apparel 
+Cutter - Fur 
+141 
+7532.0700 
+Garment and Related Pattern Makers 
+and Cutters 
+Apparel 
+Cutter - Hand (Textile Product) 
+142 
+7532.1000 
+Garment and Related Pattern Makers 
+and Cutters 
+Apparel 
+Cutter - Garment (Leather) 
+143 
+7532.1300 
+Garment and Related Pattern Makers 
+and Cutters 
+Apparel 
+Cutter - Tent 
+144 
+7533.0100 
+Sewing, Embroiderers and Related 
+Workers 
+Apparel 
+Sewer - Hand 
+145 
+7533.0201 
+Sewing, Embroiderers and Related 
+Workers 
+Apparel 
+Hand Embroiderer 
+146 
+7533.0800 
+Sewing, Embroiderers and Related 
+Workers 
+Apparel 
+Umbrella Maker 
+147 
+7533.1100 
+Sewing, Embroiderers and Related 
+Workers 
+Apparel 
+Tailor, Tent (Machine) 
+148 
+7534.0100 
+Upholsterers and Related Workers 
+Apparel 
+Upholsterer - Furniture 
+149 
+7534.0300 
+Upholsterers and Related Workers 
+Apparel 
+Upholsterer - Vehicle 
+150 
+7534.0400 
+Upholsterers and Related Workers 
+Apparel 
+Cushion Maker 
+
+151 
+7543.0302 
+Product Graders and Testers (Excluding 
+Food and Beverages) 
+Apparel 
+In Line Checker 
+152 
+8153.0101 
+Sewing Machine Operators 
+Apparel 
+Sewing Machine Operator 
+153 
+5112.1000 
+Transport Conductors 
+Automobile & 
+Transportation 
+Bus Conductor 
+154 
+5165.0101 
+Driving Instructors 
+Automobile & 
+Transportation 
+Commercial Vehicle Driver 
+Trainer 
+155 
+7132.0205 
+Spray Painters and Varnishers 
+Automobile & 
+Transportation 
+Painter 
+156 
+7413.0100 
+Electrical Line Installers and Repairers 
+Construction 
+Lineman - Light and Power 
+157 
+7522.0100 
+Cabinet Makers and Related Workers 
+Construction 
+Furniture Maker - Wood 
+158 
+7522.1800 
+Cabinet Makers and Related Workers 
+Construction 
+Sports Goods Maker - Wood 
+159 
+7522.2000 
+Cabinet Makers and Related Workers 
+Construction 
+Wood Polisher 
+160 
+8114.0100 
+Cement, Stone and Other Mineral 
+Products Machine Operators 
+Construction 
+Polishing Machine Operator 
+(Mosaic) 
+161 
+8114.0300 
+Cement, Stone and Other Mineral 
+Products Machine Operators 
+Construction 
+Concrete Mixer Operator 
+162 
+8342.0101 
+Earth Moving and Related Plant 
+Operators 
+Construction 
+Bulldozer Operator 
+163 
+8342.0301 
+Earth Moving and Related Plant 
+Operators 
+Construction 
+Loader Operator 
+164 
+8342.0501 
+Earth Moving and Related Plant 
+Operators 
+Construction 
+Excavator Operator 
+165 
+9313.0201 
+Building Construction Workers 
+Construction 
+Bar Bender & Fixer 
+166 
+9313.0301 
+Building Construction Workers 
+Construction 
+Helper Mason 
+167 
+9313.0501 
+Building Construction Workers 
+Construction 
+Helper Electrician 
+168 
+5120.0300 
+Domestic Cooks 
+Domestic and 
+Household Workers 
+Cook, Domestic 
+169 
+5120.0500 
+Domestic Cooks 
+Domestic and 
+Household Workers 
+Kitchen Porter 
+170 
+5120.0600 
+Domestic Cooks 
+Domestic and 
+Household Workers 
+Pantry man 
+171 
+9111.9900 
+Domestic Cleaners and Helpers 
+Domestic and 
+Household Workers 
+Domestic and Related Helpers, 
+Cleaners and Launderers, Other 
+172 
+3113.1002 
+Electrical Engineering Technicians 
+Electronics & HW 
+LED Light Repair Technician 
+173 
+3521.9900 
+Broadcasting and Audiovisual 
+Technicians/ Cine Workers 
+Electronics & HW 
+Broadcasting and Audiovisual 
+Technicians/ Cine Workers/ 
+Script Writer/ Content 
+Developer/ Micro jobber/ 
+Cameraman/Sound/ Film Editor/ 
+Cinematographer/ and Social 
+Media related 
+174 
+3522.0100 
+Telecommunication Engineering 
+Technicians 
+Electronics & HW 
+Technician - Telecommunication 
+175 
+5242.0201 
+Sales Demonstrators 
+Electronics & HW 
+Customer Care Executive 
+176 
+7411.0100 
+Building and Related Electricians 
+Electronics & HW 
+Electrician - General 
+177 
+7411.0102 
+Building and Related Electricians 
+Electronics & HW 
+CCTV Installation Technician 
+178 
+7411.0200 
+Building and Related Electricians 
+Electronics & HW 
+Electrician (Mines) 
+179 
+7412.0202 
+Electrical Mechanics and Fitters 
+Electronics & HW 
+Mechanical Fitter 
+180 
+7421.0300 
+Electronic Mechanics and Servicers 
+(home appliances etc) 
+Electronics & HW 
+Electronic Mechanic 
+
+181 
+7421.0701 
+Electronic Mechanics and Servicers 
+(home appliances etc) 
+Electronics & HW 
+Field Technician - Other Home 
+Appliances 
+182 
+7421.1301 
+Electronic Mechanics and Servicers 
+(home appliances etc) 
+Electronics & HW 
+TV Repair Technician 
+183 
+7421.1401 
+Electronic Mechanics and Servicers 
+(home appliances etc) 
+Electronics & HW 
+Solar Panel Installation 
+Technician 
+184 
+7422.0100 
+Information and Communications 
+Technology Installers and Servicers 
+(networking and surveillance workers 
+etc) 
+Electronics & HW 
+Installation Mechanic 
+185 
+7422.0400 
+Information and Communications 
+Technology Installers and Servicers 
+(networking and surveillance workers 
+etc) 
+Electronics & HW 
+Lineman - Telephone and 
+Telegraph 
+186 
+7422.1203 
+Information and Communications 
+Technology Installers and Servicers 
+(networking and surveillance workers 
+etc) 
+Electronics & HW 
+Set top Box Installer, Technician 
+187 
+7422.2001 
+Information and Communications 
+Technology Installers and Servicers 
+(networking and surveillance workers 
+etc) 
+Electronics & HW 
+Field Technician - Computing 
+and Peripherals 
+188 
+7422.2002 
+Information and Communications 
+Technology Installers and Servicers 
+(networking and surveillance workers 
+etc) 
+Electronics & HW 
+Installation Technician 
+(Computing and Peripherals) 
+189 
+7422.2101 
+Information and Communications 
+Technology Installers and Servicers 
+(networking and surveillance workers 
+etc) 
+Electronics & HW 
+Field Technician - Networking 
+and Storage 
+190 
+7422.2301 
+Information and Communications 
+Technology Installers and Servicers 
+(networking and surveillance workers 
+etc) 
+Electronics & HW 
+Smartphones Repair Technician 
+191 
+8212.0400 
+Electrical and Electronic Equipment 
+Assemblers 
+Electronics & HW 
+Assembler, Electrical 
+Accessories 
+192 
+3132.0100 
+Incinerator and Water Treatment Plant 
+Operators 
+Food Industry 
+Ice Maker 
+193 
+7511.0100 
+Butchers, Fishmongers and Related 
+Food Preparers 
+Food Industry 
+Butcher 
+194 
+7511.0300 
+Butchers, Fishmongers and Related 
+Food Preparers 
+Food Industry 
+Sausage Maker 
+195 
+7512.0100 
+Bakers, Pastry Cooks and 
+Confectionery Makers 
+Food Industry 
+Baker (Baking Products) 
+196 
+7512.0500 
+Bakers, Pastry Cooks and 
+Confectionery Makers 
+Food Industry 
+Candy Maker 
+197 
+7513.0500 
+Dairy Products Makers 
+Food Industry 
+Ice Cream Maker 
+198 
+7514.0100 
+Fruits, Vegetables and Related 
+Preservers 
+Food Industry 
+Oil Expeller Man 
+199 
+7514.0200 
+Fruits, Vegetables and Related 
+Preservers 
+Food Industry 
+Oil Crusher Operator - Animal 
+Driven 
+
+200 
+7514.1000 
+Fruits, Vegetables and Related 
+Preservers 
+Food Industry 
+Pickler (Can & Preservation) 
+201 
+8160.0700 
+Food and Related Products Machine 
+Operators 
+Food Industry 
+Miller - Food Grains 
+202 
+8160.1000 
+Food and Related Products Machine 
+Operators 
+Food Industry 
+Flour Mill Operator 
+203 
+8160.2400 
+Food and Related Products Machine 
+Operators 
+Food Industry 
+Fruit Press Operator (Food 
+Canning and Preserving) 
+204 
+8160.3400 
+Food and Related Products Machine 
+Operators 
+Food Industry 
+Crusher Operator - Sugarcane 
+205 
+8160.5700 
+Food and Related Products Machine 
+Operators 
+Food Industry 
+Tea Vendor 
+206 
+8160.7500 
+Food and Related Products Machine 
+Operators 
+Food Industry 
+Pasteuriser, Brewery 
+207 
+4132.0401 
+Data Entry Clerks 
+Gem & Jewellery 
+Data Entry Person 
+208 
+8189.0100 
+Gem and Jewellery Machine Operators 
+(Artisans and Workers) 
+Gem & Jewellery 
+Gem Grinder, Machine 
+209 
+8189.0200 
+Gem and Jewellery Machine Operators 
+(Artisans and Workers) 
+Gem & Jewellery 
+Gem Polisher, Machine 
+210 
+9321.0205 
+Hand Packers 
+Gem & Jewellery 
+Tagger and Labeller 
+211 
+8181.1700 
+Glass and Ceramics Plant Operators 
+and workers 
+Glass & Ceramics 
+Kilnman, Brick and Tile 
+212 
+7316.0100 
+Signwriter, Decorative Painters, 
+Engravers and Etchers 
+Handicrafts & 
+Carpets 
+Engraver - Glass 
+213 
+7316.0700 
+Signwriter, Decorative Painters, 
+Engravers and Etchers 
+Handicrafts & 
+Carpets 
+Hand Painter (Ceramics) 
+214 
+7317.0300 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Furniture Maker - Bamboo 
+215 
+7317.0700 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Basket Maker 
+216 
+7317.0800 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Mat Weaver - Bamboo 
+217 
+7317.0900 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Mat Weaver - Grass and Leave 
+218 
+7317.1000 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Broom Maker 
+219 
+7317.1100 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Chick Maker 
+220 
+7317.1200 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Khas Thatti Maker 
+221 
+7317.1400 
+Handicraft Workers in Wood, Basketry 
+and Related Materials 
+Handicrafts & 
+Carpets 
+Brush Maker - Hand 
+222 
+7318.0100 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Candle Maker 
+223 
+7318.0500 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Hand Printer - Textile/ Hand 
+Block Printer 
+224 
+7318.0600 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Hand Dyer 
+
+225 
+7318.2700 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Cardtenter - Cotton/ Carding 
+Tenter 
+226 
+7318.4200 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Hand Spinner (Cotton and 
+Woolen Textile) 
+227 
+7318.5800 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Weaver - Handloom 
+228 
+7318.5900 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Carpet Weaver - Hand Knitting 
+229 
+7318.6200 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Carpet Repairer 
+230 
+7318.6300 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Coir Weaver (Matting) 
+231 
+7318.6400 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Net Maker - Hand 
+232 
+7318.6600 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Knitter - Hand 
+233 
+7318.6700 
+Handicraft Workers in Textiles , 
+Leather and related materials (Carpet 
+Workers etc)   
+Handicrafts & 
+Carpets 
+Braid Maker - Hand 
+234 
+7522.1400 
+Cabinet Makers and Related Workers 
+Handicrafts & 
+Carpets 
+Toy Maker 
+235 
+7522.1600 
+Cabinet Makers and Related Workers 
+Handicrafts & 
+Carpets 
+Picture Frame Maker 
+236 
+8152.9900 
+Weaving and Knitting Machine 
+Operators (Machine Carpet Weavers 
+etc) 
+Handicrafts & 
+Carpets 
+Weaving and Knitting Machine 
+Operators, Other 
+237 
+2240.0400 
+Paramedical Practitioners 
+Healthcare 
+Dresser 
+238 
+2265.9900 
+Dietician/Diet Assistants 
+Healthcare 
+Dieticians and Nutritionists, 
+Other 
+239 
+3212.0601 
+Phlebotomy Technicians 
+Healthcare 
+Phlebotomy Technician 
+240 
+3213.0101 
+Pharmaceutical Technicians and 
+Assistants 
+Healthcare 
+Pharmacy Assistant 
+241 
+3221.0100 
+Nursing Associate Professionals 
+Healthcare 
+Nurse - Institution 
+242 
+3222.0300 
+Anganwadi and Aasha Workers etc. 
+Healthcare 
+Lady Health Visitor/ASHA 
+Worker/Anganwadi Worker 
+243 
+3252.0101 
+Medical Record Assistant 
+Healthcare 
+Medical Records and Health 
+Information Technician 
+244 
+3253.9900 
+Front line Workers (For COVID and 
+other Medical Equipment Support, 
+Home Care Support, Emergency Care 
+Support, Advanced Care Support, Basic 
+Care Support ) 
+Healthcare 
+Community Health Workers, 
+Other 
+245 
+3255.0101 
+Therapy Assistants (Yoga etc.) 
+Healthcare 
+Assistant Physiotherapist 
+246 
+3256.9900 
+Therapy Assistants (Yoga etc.) 
+Healthcare 
+Medical Assistants, Other 
+
+247 
+5311.0100 
+Child Care Workers, Ayah,Governess 
+Healthcare 
+Ayah - Institutional 
+248 
+5311.0200 
+Child Care Workers, Ayah,Governess 
+Healthcare 
+Child Care Worker 
+249 
+5311.0400 
+Child Care Workers 
+Healthcare 
+Ayah - Domestic 
+250 
+5322.0101 
+Home-Based Personal Care Workers 
+(home health aids, Nurses, etc.) 
+Healthcare 
+Nurse - Domestic/ Home 
+251 
+5329.0101 
+Personal Care Workers in Health 
+Services Not Elsewhere Classified 
+Healthcare 
+Ward Boy 
+252 
+6116.0112 
+Miscellaneous (sample collectors, 
+distributers) 
+Healthcare 
+Community Service Provider 
+253 
+7535.1400 
+Pelt Dressers, Tanners and Fellmongers 
+Leather Industry 
+Works 
+Dyer - Leather 
+254 
+7536.0100 
+Shoemakers and Related Workers 
+Leather Industry 
+Works 
+Shoemaker 
+255 
+7536.0300 
+Shoemakers and Related Workers 
+Leather Industry 
+Works 
+Shoe Repairer - Cobbler 
+256 
+7536.2700 
+Shoemakers and Related Workers 
+Leather Industry 
+Works 
+Horn Comb Maker (Hand) 
+257 
+8156.2601 
+Shoe Making and Related Machine 
+Operators 
+Leather Industry 
+Works 
+Helper/ Worker 
+258 
+7119.0100 
+Building Frame and Related Traders 
+Mining 
+Well Digger 
+259 
+7542.0100 
+Shotfirers and Blasters 
+Mining 
+Shot Firer 
+260 
+8111.0500 
+Miners and Quarriers 
+Mining 
+Pick Miners 
+261 
+8111.2200 
+Miners and Quarriers 
+Mining 
+Driller - Hand 
+262 
+8112.9900 
+Crusher Operator, Mineral 
+Mining 
+Mineral and Stone Processing 
+Plant Operators, Other 
+263 
+8113.0300 
+Well Drillers and Borers and Related 
+Workers 
+Mining 
+Mudman 
+264 
+8343.0700 
+Crane, Hoist and Related Plant 
+Operators 
+Mining 
+Overhead Crane Operator 
+265 
+8343.1800 
+Crane, Hoist and Related Plant 
+Operators 
+Mining 
+Liftman 
+266 
+9311.0100 
+Mining and Quarrying Labourers 
+Mining 
+Mines, Quarrymen, Related 
+Workers 
+267 
+2166.0201 
+Graphic and Multimedia Designers 
+Miscellaneous 
+Multimedia Artist and 
+Animator/Animator 
+268 
+2636.0100 
+Religious Professionals 
+Miscellaneous 
+Priest 
+269 
+2636.0200 
+Religious Professionals 
+Miscellaneous 
+Purohit 
+270 
+3132.0400 
+Incinerator and Water Treatment Plant 
+Operators 
+Miscellaneous 
+Plant Operator (Waste water) 
+271 
+3132.1000 
+Incinerator and Water Treatment Plant 
+Operators 
+Miscellaneous 
+Pumpman 
+272 
+3422.0100 
+Sports Coaches, Instructors and 
+Officials 
+Miscellaneous 
+Athletic Coach 
+273 
+3422.0201 
+Sports Coaches, Instructors and 
+Officials 
+Miscellaneous 
+Sports Coach 
+274 
+3422.0300 
+Sports Coaches, Instructors and 
+Officials 
+Miscellaneous 
+Riding Instructor 
+275 
+3422.0400 
+Sports Coaches, Instructors and 
+Officials 
+Miscellaneous 
+Umpire 
+276 
+3422.0500 
+Sports Coaches, Instructors and 
+Officials 
+Miscellaneous 
+Marker/ Groundsmen & Women 
+
+277 
+3423.0101 
+Fitness and Recreation Instructors, and 
+Programme Leaders 
+Miscellaneous 
+Fitness Trainer/ Fitness 
+Instructor 
+278 
+3423.0501 
+Fitness and Recreation Instructors, and 
+Programme Leaders 
+Miscellaneous 
+Lifeguard 
+279 
+3435.0100 
+ Other Artistic and Cultural Associates 
+(Tattoo Artist, Floral Designer) 
+Miscellaneous 
+Tattoo Artist 
+280 
+3435.9900 
+Other Artistic and Cultural Associate 
+Professionals/ Lok Kalakar 
+Miscellaneous 
+Other Artistic and Cultural 
+Associate Professionals, Lok 
+Kalakar, Other 
+281 
+4226.0201 
+Receptionist (General) & Front Desk 
+Assistants 
+Miscellaneous 
+Showroom Hostess 
+282 
+4321.0102 
+Stock Clerks 
+Miscellaneous 
+Inventory Clerk 
+283 
+4321.0601 
+Stock Clerks 
+Miscellaneous 
+Warehouse Worker/ Railway 
+Godown Workers 
+284 
+4412.0200 
+Mail Carriers and Sorting Clerks 
+Miscellaneous 
+Postman 
+285 
+5152.0100 
+Domestic Housekeepers 
+Miscellaneous 
+Caretaker - House Keeper 
+(Domestic) 
+286 
+5163.0300 
+Undertakers and Embalmers 
+Miscellaneous 
+Grave Digger 
+287 
+5211.0301 
+Stall and Market Salespersons 
+(Tellecaller, Shop Attendant/Sales 
+Assistant) 
+Miscellaneous 
+Sales Executive - Dealership 
+288 
+5211.0302 
+Stall and Market Salespersons 
+(Tellecaller, Shop Attendant/Sales 
+Assistant) 
+Miscellaneous 
+Tele - caller 
+289 
+5212.0100 
+Street Food Salespersons 
+Miscellaneous 
+Milkman 
+290 
+5243.0100 
+Delivery Boy/ Partner/ Delivery 
+Associate for food & grocery/ Door-to-
+Door Salespersons (Hawkers etc) 
+Miscellaneous 
+News Paper Boy 
+291 
+5243.0300 
+Delivery Boy/ Partner/ Delivery 
+Associate for food & grocery/ Door-to-
+Door Salespersons (Hawkers etc) 
+Miscellaneous 
+Home Deliveryman 
+292 
+5243.0401 
+Delivery Boy/ Partner/ Delivery 
+Associate for food & grocery/ Door-to-
+Door Salespersons (Hawkers etc) 
+Miscellaneous 
+Distributor Sales Representative 
+293 
+5243.0501 
+Delivery Boy/ Partner/ Delivery 
+Associate for food & grocery/ Door-to-
+Door Salespersons (Hawkers etc) 
+Miscellaneous 
+Field Sales Executive (FSE) 
+294 
+5243.9900 
+Delivery Boy/ Partner/ Delivery 
+Associate for food & grocery/ Door-to-
+Door Salespersons (Hawkers etc) 
+Miscellaneous 
+Delivery Boy/ Partner/ Delivery 
+Associate for food & grocery/ 
+Door-to-Door Salespersons 
+(Hawkers etc) 
+295 
+5249.0200 
+Sales Workers Not Elsewhere Classified 
+Miscellaneous 
+Salesman 
+296 
+8141.2400 
+Rubber Products Machine Operators 
+Miscellaneous 
+Rubber Stamp Maker 
+297 
+8350.0600 
+Ships? Deck Crews and Related 
+Workers 
+Miscellaneous 
+Boat Rower 
+298 
+9321.0101 
+Hand Packers 
+Miscellaneous 
+Packer 
+299 
+9333.0100 
+Freight Handlers 
+Miscellaneous 
+Loader and Unloader 
+300 
+9510.0100 
+Street and Related Service Workers 
+Miscellaneous 
+Boot Polisher 
+301 
+9520.0100 
+Street Vendors (Food and Excluding 
+Food) 
+Miscellaneous 
+Hawker 
+
+302 
+9520.9900 
+Street Vendors (Food and Excluding 
+Food) 
+Miscellaneous 
+Street Vendors, Non-Food 
+Products, Other 
+303 
+9611.0100 
+Garbage and Recycling Collectors 
+Miscellaneous 
+Garbage Collector 
+304 
+9613.0300 
+Sweepers and Related Labourers 
+Miscellaneous 
+Sweeper 
+305 
+9621.0400 
+Messengers, Package Deliverers & 
+Luggage Porters 
+Miscellaneous 
+Bellboy (Hotel & Restaurant) 
+306 
+9621.0501 
+Messengers, Package Deliverers & 
+Luggage Porters 
+Miscellaneous 
+Tyre Inflation Attendant 
+307 
+9621.0900 
+Messengers, Package Deliverers & 
+Luggage Porters 
+Miscellaneous 
+Sorter - Mail 
+308 
+9621.9900 
+Messengers, Package Deliverers & 
+Luggage Porters 
+Miscellaneous 
+Messengers, Package Deliverers 
+and Luggage Porters, Other 
+309 
+9623.0300 
+Meter Readers and Vending Machine 
+Collectors 
+Miscellaneous 
+Meter Reader 
+310 
+9623.0501 
+Meter Readers and Vending Machine 
+Collectors 
+Miscellaneous 
+Tyre Inflation Attendant 
+311 
+2652.0300 
+Musicians/ Singers/ Composers/ Band 
+Baja Players 
+Musical Instruments 
+Singer 
+312 
+2652.9900 
+Musicians/ Singers/ Composers/ Band 
+Baja Players 
+Musical Instruments 
+Musicians/ Singers/ Composers/ 
+Band Baja Players, Others 
+313 
+7312.0200 
+Musical Instrument Makers and Tuners 
+Musical Instruments 
+Harmonium Maker 
+314 
+7312.1200 
+Musical Instrument Makers and Tuners 
+Musical Instruments 
+Piano Tuner 
+315 
+7312.1300 
+Musical Instrument Makers and Tuners 
+Musical Instruments 
+Tabla Maker (Musical 
+Instrument) 
+316 
+7312.1400 
+Musical Instrument Makers and Tuners 
+Musical Instruments 
+Drum Maker - Musical 
+317 
+7312.1600 
+Musical Instrument Makers and Tuners 
+Musical Instruments 
+Bag Pipe Maker 
+318 
+7312.1700 
+Musical Instrument Makers and Tuners 
+Musical Instruments 
+Brass Musical Instruments 
+Assembler 
+319 
+3341.1000 
+Office Supervisors 
+Office 
+Administration & 
+Facility 
+Management 
+Office Assistant 
+320 
+4110.0100 
+General Office Clerks 
+Office 
+Administration & 
+Facility 
+Management 
+Clerk - General 
+321 
+4131.0600 
+Typists and Word Processing Operators 
+Office 
+Administration & 
+Facility 
+Management 
+Computer Operator 
+322 
+4132.0402 
+Data Entry Clerks 
+Office 
+Administration & 
+Facility 
+Management 
+Domestic Data Entry Operator 
+323 
+4224.0100 
+Hotel Receptionists 
+Office 
+Administration & 
+Facility 
+Management 
+Receptionist 
+324 
+4419.0500 
+Clerical Support Workers Not 
+Elsewhere Classified 
+Office 
+Administration & 
+Facility 
+Management 
+Office Boy/ Peon 
+
+325 
+9112.9900 
+Cleaners and Helpers in Offices, Hotels 
+and Other Establishments 
+Office 
+Administration & 
+Facility 
+Management 
+Helpers and Cleaners in Offices, 
+Hotels and Other 
+Establishments, Other 
+326 
+4225.0100 
+Inquiry Clerks (Shop sale assistants 
+etc.) 
+Organised Retail 
+Complaint Attending 
+Clerk/Customer Service 
+Desk/Customer Service 
+Executive 
+327 
+7322.0500 
+Printers 
+Printing 
+Type Caster 
+328 
+7322.1700 
+Printers 
+Printing 
+Pressman (Flatbed, Letter Press) 
+329 
+7322.1800 
+Printers 
+Printing 
+Machineman - Hand Printing 
+330 
+7322.1900 
+Printers 
+Printing 
+Machineman - Automatic 
+Printing 
+331 
+7322.2100 
+Printers 
+Printing 
+Machineman, Offset Printing 
+332 
+7323.0100 
+Print Finishing and Binding Workers 
+Printing 
+Book Binder 
+333 
+7323.0400 
+Print Finishing and Binding Workers 
+Printing 
+Book Binding Worker 
+334 
+8132.9900 
+Photographic Products Machine 
+Operators 
+Printing 
+Photographic Products Machine 
+Operators, Other 
+335 
+5414.0151 
+Security Guards and Security 
+Supervisors 
+Private Security 
+Armed Security Guard 
+336 
+5414.0400 
+Security Guards and Security 
+Supervisors 
+Private Security 
+Watchman 
+337 
+5414.0501 
+Security Guards and Security 
+Supervisors 
+Private Security 
+Gateman / Unarmed Security 
+Guard 
+338 
+2653.0300 
+Dancers and Choreographers 
+Professionals 
+Dancer 
+339 
+2654.0901 
+Film, Stage and Related Workers 
+Professionals 
+Lighting Artist 
+340 
+2655.0100 
+Actors 
+Professionals 
+Actor and Actress 
+341 
+2659.0200 
+Creative and Performing Artists Not 
+Elsewhere Classified 
+Professionals 
+Acrobat 
+342 
+2659.0500 
+Creative and Performing Artists Not 
+Elsewhere Classified 
+Professionals 
+Circus Performers, Other 
+343 
+2659.0700 
+Creative and Performing Artists Not 
+Elsewhere Classified 
+Professionals 
+Buffoon - Clown 
+344 
+2659.0900 
+Creative and Performing Artists Not 
+Elsewhere Classified 
+Professionals 
+Magician 
+345 
+2659.1100 
+Creative and Performing Artists Not 
+Elsewhere Classified 
+Professionals 
+Snake charmer 
+346 
+2659.1200 
+Creative and Performing Artists Not 
+Elsewhere Classified 
+Professionals 
+Puppeteer 
+347 
+3411.9900 
+Legal and Related Associate Workers 
+Professionals 
+Legal and Related Associate 
+Professionals, Other 
+348 
+3412.9900 
+Social Work Associate Workers 
+Professionals 
+Social Work Associate 
+Professionals 
+349 
+3421.0200 
+Athletes and Sports Players 
+Professionals 
+Jockey 
+350 
+5223.0100 
+Shop Sales Assistants 
+Retail 
+Shop Assistant 
+351 
+8157.0100 
+Laundry Machine Operators 
+Service 
+Washing Machine Operator 
+352 
+8157.0401 
+Laundry Machine Operators 
+Service 
+Pressman 
+353 
+9121.0200 
+Hand Launderers and Pressers 
+Service 
+Laundary Workers (Marker - 
+Sorter) 
+354 
+9121.0300 
+Hand Launderers and Pressers 
+Service 
+Dry Cleaner - Hand 
+355 
+9121.0500 
+Hand Launderers and Pressers 
+Service 
+Rug Cleaner 
+
+356 
+9121.0600 
+Hand Launderers and Pressers 
+Service 
+Presser - Hand 
+357 
+7322.1400 
+Printers 
+Textile & Handloom 
+Colour Maker (Textile Product) 
+358 
+8151.9900 
+Fibre Preparing, Spinning and Winding 
+Machine Operators 
+Textile & Handloom 
+Fibre Preparing, Spinning and 
+Winding Machine Operators, 
+Other 
+359 
+8154.1200 
+Bleaching, Dyeing and Cleaning 
+Machine Operators 
+Textile & Handloom 
+Wool Dyer 
+360 
+7516.0200 
+Tobacco Preparers and Tobacco 
+Products (Bidi Makers, Snuff Makers 
+and Chewing Tobacco Makers) 
+Tobacco Industry 
+Tobacco Grader 
+361 
+7516.0500 
+Tobacco Preparers and Tobacco 
+Products (Bidi Makers, Snuff Makers 
+and Chewing Tobacco Makers) 
+Tobacco Industry 
+Cigar or Cheroot Roller 
+362 
+7516.0700 
+Tobacco Preparers and Tobacco 
+Products (Bidi Makers, Snuff Makers 
+and Chewing Tobacco Makers) 
+Tobacco Industry 
+Bidi Maker 
+363 
+7516.0900 
+Tobacco Preparers and Tobacco 
+Products (Bidi Makers, Snuff Makers 
+and Chewing Tobacco Makers) 
+Tobacco Industry 
+Bidi Checker 
+364 
+7516.1100 
+Tobacco Preparers and Tobacco 
+Products (Bidi Makers, Snuff Makers 
+and Chewing Tobacco Makers) 
+Tobacco Industry 
+Chewing Tobacco Maker 
+365 
+4212.0100 
+Bookmakers, Croupiers and Related 
+Gaming Workers 
+Tourism & 
+Hospitality 
+Booking Clerk 
+366 
+5113.0100 
+Travel Guides 
+Tourism & 
+Hospitality 
+Travel Agent 
+367 
+5113.0200 
+Travel Guides 
+Tourism & 
+Hospitality 
+Tourist Guide 
+368 
+5120.0200 
+Cook Institutional 
+Tourism & 
+Hospitality 
+Cooks 
+(restaurent/Shaba/Hotel/Party) 
+369 
+5131.0401 
+Waiters 
+Tourism & 
+Hospitality 
+Waiter (Food & Beverage 
+Service Steward) 
+370 
+5132.0100 
+Bartenders 
+Tourism & 
+Hospitality 
+Waiter (Bartender) 
+371 
+5151.0202 
+Cleaning and Housekeeping 
+Supervisors in Offices, Hotels and 
+Other Establishments 
+Tourism & 
+Hospitality 
+Room Attendant 
+372 
+5151.0500 
+Cleaning and Housekeeping 
+Supervisors in Offices, Hotels and 
+Other Establishments 
+Tourism & 
+Hospitality 
+Linen Keeper 
+373 
+5151.0600 
+Cleaning and Housekeeping 
+Supervisors in Offices, Hotels and 
+Other Establishments 
+Tourism & 
+Hospitality 
+Caretaker - Hotel and 
+Restaurant Keeper 
+374 
+5153.0100 
+Building Caretakers 
+Tourism & 
+Hospitality 
+Caretaker - Building 
+375 
+5153.0300 
+Building Caretakers 
+Tourism & 
+Hospitality 
+Caretaker - Burial Places and 
+Cremation Grounds 
+376 
+9412.0100 
+Kitchen Helpers 
+Tourism & 
+Hospitality 
+Kitchen Helper 
+377 
+7523.9900 
+Wood Working Machine Tool Setters 
+and Operators 
+Wood & Carpentry 
+Wood Working Machine Setters 
+and Setter Operators, Others 
+
+378 
+8172.9900 
+Wood Processing Plant Operators 
+Wood & Carpentry 
+Wood Processing Plant 
+Operators and Related Workers, 
+Other 
+379 
+5312 
+Tutors and Other Teacher Aides (Home 
+tutors, Coaching centre tutors etc) 
+Education 
+Tutors and Other Teacher Aides 
+(Home tutors, Coaching centre 
+tutors etc) 
+381 
+7222.0900 
+Tool Makers and Related Workers 
+Capital Goods & 
+Manufacturing  
+Armourer 
+ 
+382 
+7115.0600 
+Carpenters and Joiners 
+Wood & Carpentry  
+Loftsman, Ship Building  
+383 
+7115.0800 
+Carpenters and Joiners 
+Wood & Carpentry  
+Lascar Stager, Ship Building, Ship 
+Building 
+ 
