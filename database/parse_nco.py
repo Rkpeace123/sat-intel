@@ -221,6 +221,10 @@ async def insert_to_postgres(rows: list[dict]) -> int:
 
 def insert_to_chroma(rows: list[dict]) -> int:
     os.environ.setdefault("ANONYMIZED_TELEMETRY", "False")
+    # Always write to backend/data/chroma — the path the app reads from
+    correct_chroma = str(REPO_ROOT / "backend" / "data" / "chroma")
+    os.environ["CHROMA_DIR"] = correct_chroma
+
     from app.intelligence.assist.rag.chunking import chunk_records
     from app.intelligence.assist.rag.config import Bucket
     from app.intelligence.assist.rag.embeddings import embed

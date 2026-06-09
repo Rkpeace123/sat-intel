@@ -1,0 +1,334 @@
+code,code_type,level,label,section,division,synonyms
+A,NIC,section,Agriculture; forestry and fishing,A,,
+01,NIC,division,Crop and animal production; hunting and related service activities,A,01,animal|hunting|production
+011,NIC,group,Growing of non-perennial crops,A,01,animal|crops|growing|hunting|perennial|production
+012,NIC,group,Growing of perennial crops,A,01,animal|crops|growing|hunting|perennial|production
+013,NIC,group,Plant propagation,A,01,animal|hunting|plant|production|propagation
+014,NIC,group,Animal production,A,01,animal|hunting|production
+015,NIC,group,Mixed farming,A,01,animal|farming|hunting|mixed|production
+016,NIC,group,Support activities to agriculture and post-harvest crop activities,A,01,agriculture|animal|harvest|hunting|production|support
+017,NIC,group,Hunting; trapping and related service activities,A,01,animal|hunting|production|trapping
+02,NIC,division,Forestry and logging,A,02,forestry|logging
+021,NIC,group,Silviculture and other forestry activities,A,02,forestry|logging|silviculture
+022,NIC,group,Logging,A,02,forestry|logging
+023,NIC,group,Gathering of non-wood forest products,A,02,forest|forestry|gathering|logging|products
+024,NIC,group,Support services to forestry,A,02,forestry|logging|services|support
+03,NIC,division,Fishing and aquaculture,A,03,aquaculture|fishing
+031,NIC,group,Fishing,A,03,aquaculture|fishing
+032,NIC,group,Aquaculture,A,03,aquaculture|fishing
+B,NIC,section,Mining and quarrying,B,,
+05,NIC,division,Mining of coal and lignite,B,05,lignite|mining
+051,NIC,group,Mining of hard coal,B,05,lignite|mining
+052,NIC,group,Mining of lignite,B,05,lignite|mining
+06,NIC,division,Extraction of crude petroleum and natural gas,B,06,crude|extraction|natural|petroleum
+061,NIC,group,Extraction of crude petroleum,B,06,crude|extraction|natural|petroleum
+062,NIC,group,Extraction of natural gas,B,06,crude|extraction|natural|petroleum
+07,NIC,division,Mining of metal ores,B,07,metal|mining
+071,NIC,group,Mining of iron ores,B,07,metal|mining
+072,NIC,group,Mining of non-ferrous metal ores,B,07,ferrous|metal|mining
+08,NIC,division,Other mining and quarrying,B,08,mining|quarrying
+081,NIC,group,Quarrying of stone; sand and clay,B,08,mining|quarrying|stone
+089,NIC,group,Mining and quarrying n.e.c.,B,08,mining|n.e.c|quarrying
+09,NIC,division,Mining support service activities,B,09,mining|support
+091,NIC,group,Support activities for petroleum and natural gas mining,B,09,mining|natural|petroleum|support
+099,NIC,group,Support activities for other mining and quarrying,B,09,mining|quarrying|support
+C,NIC,section,Manufacturing,C,,
+10,NIC,division,Manufacture of food products,C,10,manufacture|products
+101,NIC,group,Processing and preserving of meat,C,10,manufacture|preserving|processing|products
+102,NIC,group,Processing and preserving of fish; crustaceans and molluscs,C,10,crustaceans|manufacture|molluscs|preserving|processing|products
+103,NIC,group,Processing and preserving of fruit and vegetables,C,10,fruit|manufacture|preserving|processing|products|vegetables
+104,NIC,group,Manufacture of vegetable and animal oils and fats,C,10,animal|manufacture|products|vegetable
+105,NIC,group,Manufacture of dairy products,C,10,dairy|manufacture|products
+106,NIC,group,Manufacture of grain mill products; starches and starch products,C,10,grain|manufacture|products|starch|starches
+107,NIC,group,Manufacture of other food products,C,10,manufacture|products
+108,NIC,group,Manufacture of prepared animal feeds,C,10,animal|feeds|manufacture|prepared|products
+11,NIC,division,Manufacture of beverages,C,11,beverages|manufacture
+110,NIC,group,Manufacture of beverages,C,11,beverages|manufacture
+12,NIC,division,Manufacture of tobacco products,C,12,manufacture|products|tobacco
+120,NIC,group,Manufacture of tobacco products,C,12,manufacture|products|tobacco
+13,NIC,division,Manufacture of textiles,C,13,manufacture|textiles
+131,NIC,group,Spinning; weaving and finishing of textiles,C,13,finishing|manufacture|spinning|textiles|weaving
+139,NIC,group,Manufacture of other textiles,C,13,manufacture|textiles
+14,NIC,division,Manufacture of wearing apparel,C,14,apparel|manufacture|wearing
+141,NIC,group,Manufacture of wearing apparel; except fur apparel,C,14,apparel|except|manufacture|wearing
+142,NIC,group,Manufacture of articles of fur,C,14,apparel|articles|manufacture|wearing
+143,NIC,group,Manufacture of knitted and crocheted apparel,C,14,apparel|crocheted|knitted|manufacture|wearing
+15,NIC,division,Manufacture of leather and related products,C,15,leather|manufacture|products
+151,NIC,group,Tanning and dressing of leather; manufacture of luggage; handbags; saddlery and harness; dressing and dyeing of fur,C,15,dressing|dyeing|handbags|harness|leather|luggage|manufacture|products
+152,NIC,group,Manufacture of footwear,C,15,footwear|leather|manufacture|products
+16,NIC,division,Manufacture of wood and of products of wood and cork; except furniture; manufacture of articles of straw and plaiting materials,C,16,articles|except|furniture|manufacture|materials|plaiting|products|straw
+161,NIC,group,Sawmilling and planing of wood,C,16,articles|except|furniture|manufacture|materials|plaiting|planing|products
+162,NIC,group,Manufacture of products of wood; cork; straw and plaiting materials,C,16,articles|except|furniture|manufacture|materials|plaiting|products|straw
+17,NIC,division,Manufacture of paper and paper products,C,17,manufacture|paper|products
+170,NIC,group,Manufacture of paper and paper products,C,17,manufacture|paper|products
+18,NIC,division,Printing and reproduction of recorded media,C,18,media|printing|recorded|reproduction
+181,NIC,group,Printing and service activities related to printing,C,18,media|printing|recorded|reproduction
+182,NIC,group,Reproduction of recorded media,C,18,media|printing|recorded|reproduction
+19,NIC,division,Manufacture of coke and refined petroleum products,C,19,manufacture|petroleum|products|refined
+191,NIC,group,Manufacture of coke oven products,C,19,manufacture|petroleum|products|refined
+192,NIC,group,Manufacture of refined petroleum products,C,19,manufacture|petroleum|products|refined
+20,NIC,division,Manufacture of chemicals and chemical products,C,20,chemical|chemicals|manufacture|products
+201,NIC,group,Manufacture of basic chemicals; fertilizer and nitrogen compounds; plastics and synthetic rubber in primary forms,C,20,basic|chemical|chemicals|compounds|fertilizer|forms|manufacture|nitrogen
+202,NIC,group,Manufacture of other chemical products,C,20,chemical|chemicals|manufacture|products
+203,NIC,group,Manufacture of man-made fibres,C,20,chemical|chemicals|fibres|manufacture|products
+21,NIC,division,Manufacture of pharmaceuticals; medicinal chemical and botanical products,C,21,botanical|chemical|manufacture|medicinal|pharmaceuticals|products
+210,NIC,group,Manufacture of pharmaceuticals; medicinal chemical and botanical products,C,21,botanical|chemical|manufacture|medicinal|pharmaceuticals|products
+22,NIC,division,Manufacture of rubber and plastics products,C,22,manufacture|plastics|products|rubber
+221,NIC,group,Manufacture of rubber products,C,22,manufacture|plastics|products|rubber
+222,NIC,group,Manufacture of plastics products,C,22,manufacture|plastics|products|rubber
+23,NIC,division,Manufacture of other non-metallic mineral products,C,23,manufacture|metallic|mineral|products
+231,NIC,group,Manufacture of glass and glass products,C,23,glass|manufacture|metallic|mineral|products
+239,NIC,group,Manufacture of non-metallic mineral products n.e.c.,C,23,manufacture|metallic|mineral|n.e.c|products
+24,NIC,division,Manufacture of basic metals,C,24,basic|manufacture|metals
+241,NIC,group,Manufacture of basic iron and steel,C,24,basic|manufacture|metals|steel
+242,NIC,group,Manufacture of basic precious and other non-ferrous metals,C,24,basic|ferrous|manufacture|metals|precious
+243,NIC,group,Casting of metals,C,24,basic|casting|manufacture|metals
+25,NIC,division,Manufacture of fabricated metal products; except machinery and equipment,C,25,equipment|except|fabricated|machinery|manufacture|metal|products
+251,NIC,group,Manufacture of structural metal products; tanks; reservoirs and steam generators,C,25,equipment|except|fabricated|generators|machinery|manufacture|metal|products
+252,NIC,group,Manufacture of weapons and ammunition,C,25,ammunition|equipment|except|fabricated|machinery|manufacture|metal|products
+259,NIC,group,Manufacture of other fabricated metal products; metalworking service activities,C,25,equipment|except|fabricated|machinery|manufacture|metal|metalworking|products
+26,NIC,division,Manufacture of computer; electronic and optical products,C,26,computer|electronic|manufacture|optical|products
+261,NIC,group,Manufacture of electronic components,C,26,components|computer|electronic|manufacture|optical|products
+262,NIC,group,Manufacture of computers and peripheral equipment,C,26,computer|computers|electronic|equipment|manufacture|optical|peripheral|products
+263,NIC,group,Manufacture of communication equipment,C,26,communication|computer|electronic|equipment|manufacture|optical|products
+264,NIC,group,Manufacture of consumer electronics,C,26,computer|consumer|electronic|electronics|manufacture|optical|products
+265,NIC,group,Manufacture of measuring; testing; navigating and control equipment; watches and clocks,C,26,clocks|computer|control|electronic|equipment|manufacture|measuring|navigating
+266,NIC,group,Manufacture of irradiation; electromedical and electrotherapeutic equipment,C,26,computer|electromedical|electronic|electrotherapeutic|equipment|irradiation|manufacture|optical
+267,NIC,group,Manufacture of optical instruments and equipment,C,26,computer|electronic|equipment|instruments|manufacture|optical|products
+268,NIC,group,Manufacture of magnetic and optical media,C,26,computer|electronic|magnetic|manufacture|media|optical|products
+27,NIC,division,Manufacture of electrical equipment,C,27,electrical|equipment|manufacture
+271,NIC,group,Manufacture of electric motors; generators; transformers and electricity distribution and control apparatus,C,27,apparatus|control|distribution|electric|electrical|electricity|equipment|generators
+272,NIC,group,Manufacture of batteries and accumulators,C,27,accumulators|batteries|electrical|equipment|manufacture
+273,NIC,group,Manufacture of wiring and wiring devices,C,27,devices|electrical|equipment|manufacture|wiring
+274,NIC,group,Manufacture of electric lighting equipment,C,27,electric|electrical|equipment|lighting|manufacture
+275,NIC,group,Manufacture of domestic appliances,C,27,appliances|domestic|electrical|equipment|manufacture
+279,NIC,group,Manufacture of other electrical equipment,C,27,electrical|equipment|manufacture
+28,NIC,division,Manufacture of machinery and equipment n.e.c.,C,28,equipment|machinery|manufacture|n.e.c
+281,NIC,group,Manufacture of general purpose machinery,C,28,equipment|general|machinery|manufacture|n.e.c|purpose
+282,NIC,group,Manufacture of special-purpose machinery,C,28,equipment|machinery|manufacture|n.e.c|purpose|special
+29,NIC,division,Manufacture of motor vehicles; trailers and semi-trailers,C,29,manufacture|motor|trailers|vehicles
+291,NIC,group,Manufacture of motor vehicles,C,29,manufacture|motor|trailers|vehicles
+292,NIC,group,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,C,29,bodies|coachwork|manufacture|motor|trailers|vehicles
+293,NIC,group,Manufacture of parts and accessories for motor vehicles,C,29,accessories|manufacture|motor|parts|trailers|vehicles
+30,NIC,division,Manufacture of other transport equipment,C,30,equipment|manufacture|transport
+301,NIC,group,Building of ships and boats,C,30,boats|building|equipment|manufacture|ships|transport
+302,NIC,group,Manufacture of railway locomotives and rolling stock,C,30,equipment|locomotives|manufacture|railway|rolling|stock|transport
+303,NIC,group,Manufacture of air and spacecraft and related machinery,C,30,equipment|machinery|manufacture|spacecraft|transport
+304,NIC,group,Manufacture of military fighting vehicles,C,30,equipment|fighting|manufacture|military|transport|vehicles
+309,NIC,group,Manufacture of transport equipment n.e.c.,C,30,equipment|manufacture|n.e.c|transport
+31,NIC,division,Manufacture of furniture,C,31,furniture|manufacture
+310,NIC,group,Manufacture of furniture,C,31,furniture|manufacture
+32,NIC,division,Other manufacturing,C,32,manufacturing
+321,NIC,group,Manufacture of jewellery; bijouterie and related articles,C,32,articles|bijouterie|jewellery|manufacture|manufacturing
+322,NIC,group,Manufacture of musical instruments,C,32,instruments|manufacture|manufacturing|musical
+323,NIC,group,Manufacture of sports goods,C,32,goods|manufacture|manufacturing|sports
+324,NIC,group,Manufacture of games and toys,C,32,games|manufacture|manufacturing
+325,NIC,group,Manufacture of medical and dental instruments and supplies,C,32,dental|instruments|manufacture|manufacturing|medical|supplies
+329,NIC,group,Other manufacturing n.e.c.,C,32,manufacturing|n.e.c
+33,NIC,division,Repair and installation of machinery and equipment,C,33,equipment|installation|machinery|repair
+331,NIC,group,Repair of fabricated metal products; machinery and equipment,C,33,equipment|fabricated|installation|machinery|metal|products|repair
+332,NIC,group,Installation of industrial machinery and equipment,C,33,equipment|industrial|installation|machinery|repair
+D,NIC,section,Electricity; gas; steam and air conditioning supply,D,,
+35,NIC,division,Electricity; gas; steam and air conditioning supply,D,35,conditioning|electricity|steam|supply
+351,NIC,group,Electric power generation; transmission and distribution,D,35,conditioning|distribution|electric|electricity|generation|power|steam|supply
+352,NIC,group,Manufacture of gas; distribution of gaseous fuels through mains,D,35,conditioning|distribution|electricity|fuels|gaseous|mains|manufacture|steam
+353,NIC,group,Steam and air conditioning supply,D,35,conditioning|electricity|steam|supply
+E,NIC,section,Water supply; sewerage; waste management and remediation,E,,
+36,NIC,division,Water collection; treatment and supply,E,36,collection|supply|treatment|water
+360,NIC,group,Water collection; treatment and supply,E,36,collection|supply|treatment|water
+37,NIC,division,Sewerage,E,37,sewerage
+370,NIC,group,Sewerage,E,37,sewerage
+38,NIC,division,Waste collection; treatment and disposal activities; materials recovery,E,38,collection|disposal|materials|recovery|treatment|waste
+381,NIC,group,Waste collection,E,38,collection|disposal|materials|recovery|treatment|waste
+382,NIC,group,Waste treatment and disposal,E,38,collection|disposal|materials|recovery|treatment|waste
+383,NIC,group,Materials recovery,E,38,collection|disposal|materials|recovery|treatment|waste
+39,NIC,division,Remediation activities and other waste management services,E,39,management|remediation|services|waste
+390,NIC,group,Remediation activities and other waste management services,E,39,management|remediation|services|waste
+F,NIC,section,Construction,F,,
+41,NIC,division,Construction of buildings,F,41,buildings|construction
+410,NIC,group,Construction of buildings,F,41,buildings|construction
+42,NIC,division,Civil engineering,F,42,civil|engineering
+421,NIC,group,Construction of roads and railways,F,42,civil|construction|engineering|railways|roads
+422,NIC,group,Construction of utility projects,F,42,civil|construction|engineering|projects|utility
+429,NIC,group,Construction of other civil engineering projects,F,42,civil|construction|engineering|projects
+43,NIC,division,Specialized construction activities,F,43,construction|specialized
+431,NIC,group,Demolition and site preparation,F,43,construction|demolition|preparation|specialized
+432,NIC,group,Electrical; plumbing and other construction installation activities,F,43,construction|electrical|installation|plumbing|specialized
+433,NIC,group,Building completion and finishing,F,43,building|completion|construction|finishing|specialized
+439,NIC,group,Other specialized construction activities,F,43,construction|specialized
+G,NIC,section,Wholesale and retail trade; repair of motor vehicles and motorcycles,G,,
+45,NIC,division,Wholesale and retail trade and repair of motor vehicles and motorcycles,G,45,motor|motorcycles|repair|retail|trade|vehicles|wholesale
+451,NIC,group,Sale of motor vehicles,G,45,motor|motorcycles|repair|retail|trade|vehicles|wholesale
+452,NIC,group,Maintenance and repair of motor vehicles,G,45,maintenance|motor|motorcycles|repair|retail|trade|vehicles|wholesale
+453,NIC,group,Sale of motor vehicle parts and accessories,G,45,accessories|motor|motorcycles|parts|repair|retail|trade|vehicle
+454,NIC,group,Sale; maintenance and repair of motorcycles and related parts and accessories,G,45,accessories|maintenance|motor|motorcycles|parts|repair|retail|trade
+46,NIC,division,Wholesale trade; except of motor vehicles and motorcycles,G,46,except|motor|motorcycles|trade|vehicles|wholesale
+461,NIC,group,Wholesale on a fee or contract basis,G,46,basis|contract|except|motor|motorcycles|trade|vehicles|wholesale
+462,NIC,group,Wholesale of agricultural raw materials and live animals,G,46,agricultural|animals|except|materials|motor|motorcycles|trade|vehicles
+463,NIC,group,Wholesale of food; beverages and tobacco,G,46,beverages|except|motor|motorcycles|tobacco|trade|vehicles|wholesale
+464,NIC,group,Wholesale of household goods,G,46,except|goods|household|motor|motorcycles|trade|vehicles|wholesale
+465,NIC,group,Wholesale of machinery; equipment and supplies,G,46,equipment|except|machinery|motor|motorcycles|supplies|trade|vehicles
+466,NIC,group,Other specialized wholesale,G,46,except|motor|motorcycles|specialized|trade|vehicles|wholesale
+469,NIC,group,Non-specialized wholesale trade,G,46,except|motor|motorcycles|specialized|trade|vehicles|wholesale
+47,NIC,division,Retail trade; except of motor vehicles and motorcycles,G,47,except|motor|motorcycles|retail|trade|vehicles
+471,NIC,group,Retail sale in non-specialized stores,G,47,except|motor|motorcycles|retail|specialized|stores|trade|vehicles
+472,NIC,group,Retail sale of food; beverages and tobacco in specialized stores,G,47,beverages|except|motor|motorcycles|retail|specialized|stores|tobacco
+473,NIC,group,Retail sale of automotive fuel in specialized stores,G,47,automotive|except|motor|motorcycles|retail|specialized|stores|trade
+474,NIC,group,Retail sale of information and communications equipment in specialized stores,G,47,communications|equipment|except|information|motor|motorcycles|retail|specialized
+475,NIC,group,Retail sale of other household equipment in specialized stores,G,47,equipment|except|household|motor|motorcycles|retail|specialized|stores
+476,NIC,group,Retail sale of cultural and recreation goods in specialized stores,G,47,cultural|except|goods|motor|motorcycles|recreation|retail|specialized
+477,NIC,group,Retail sale of other goods in specialized stores,G,47,except|goods|motor|motorcycles|retail|specialized|stores|trade
+478,NIC,group,Retail sale via stalls and markets,G,47,except|markets|motor|motorcycles|retail|stalls|trade|vehicles
+479,NIC,group,Retail trade not in stores; stalls or markets,G,47,except|markets|motor|motorcycles|retail|stalls|stores|trade
+H,NIC,section,Transportation and storage,H,,
+49,NIC,division,Land transport and transport via pipelines,H,49,pipelines|transport
+491,NIC,group,Transport via railways,H,49,pipelines|railways|transport
+492,NIC,group,Other land transport,H,49,pipelines|transport
+493,NIC,group,Transport via pipeline,H,49,pipeline|pipelines|transport
+50,NIC,division,Water transport,H,50,transport|water
+501,NIC,group,Sea and coastal water transport,H,50,coastal|transport|water
+502,NIC,group,Inland water transport,H,50,inland|transport|water
+51,NIC,division,Air transport,H,51,transport
+511,NIC,group,Passenger air transport,H,51,passenger|transport
+512,NIC,group,Freight air transport,H,51,freight|transport
+52,NIC,division,Warehousing and support activities for transportation,H,52,support|transportation|warehousing
+521,NIC,group,Warehousing and storage,H,52,storage|support|transportation|warehousing
+522,NIC,group,Support activities for transportation,H,52,support|transportation|warehousing
+53,NIC,division,Postal and courier activities,H,53,courier|postal
+531,NIC,group,Postal activities,H,53,courier|postal
+532,NIC,group,Courier activities,H,53,courier|postal
+I,NIC,section,Accommodation and Food service activities,I,,
+55,NIC,division,Accommodation,I,55,accommodation
+551,NIC,group,Short term accommodation activities,I,55,accommodation|short
+552,NIC,group,Camping grounds; recreational vehicle parks and trailer parks,I,55,accommodation|camping|grounds|parks|recreational|trailer|vehicle
+559,NIC,group,Other accommodation,I,55,accommodation
+56,NIC,division,Food and beverage service activities,I,56,beverage
+561,NIC,group,Restaurants and mobile food service activities,I,56,beverage|mobile|restaurants
+562,NIC,group,Event catering and other food service activities,I,56,beverage|catering|event
+563,NIC,group,Beverage serving activities,I,56,beverage|serving
+J,NIC,section,Information and communication,J,,
+58,NIC,division,Publishing activities,J,58,publishing
+581,NIC,group,Publishing of books; periodicals and other publishing activities,J,58,books|periodicals|publishing
+582,NIC,group,Software publishing,J,58,publishing|software
+59,NIC,division,Motion picture; video and television programme production; sound recording and music publishing activities,J,59,motion|music|picture|production|programme|publishing|recording|sound
+591,NIC,group,Motion picture; video and television programme activities,J,59,motion|music|picture|production|programme|publishing|recording|sound
+592,NIC,group,Sound recording and music publishing activities,J,59,motion|music|picture|production|programme|publishing|recording|sound
+60,NIC,division,Broadcasting and programming activities,J,60,broadcasting|programming
+601,NIC,group,Radio broadcasting,J,60,broadcasting|programming|radio
+602,NIC,group,Television  programming and broadcasting activities,J,60,broadcasting|programming|television
+61,NIC,division,Telecommunications,J,61,telecommunications
+611,NIC,group,Wired telecommunications activities,J,61,telecommunications|wired
+612,NIC,group,Wireless telecommunications activities,J,61,telecommunications|wireless
+613,NIC,group,Satellite telecommunications activities,J,61,satellite|telecommunications
+619,NIC,group,Other telecommunications activities,J,61,telecommunications
+62,NIC,division,Computer programming; consultancy and related activities,J,62,computer|consultancy|programming
+620,NIC,group,Computer programming; consultancy and related activities,J,62,computer|consultancy|programming
+63,NIC,division,Information service activities,J,63,information
+631,NIC,group,Data processing; hosting and related activities; web portals,J,63,hosting|information|portals|processing
+639,NIC,group,Other information service activities,J,63,information
+K,NIC,section,Financial and insurance activities,K,,
+64,NIC,division,Financial service activities; except insurance and pension funding,K,64,except|financial|funding|insurance|pension
+641,NIC,group,Monetary intermediation,K,64,except|financial|funding|insurance|intermediation|monetary|pension
+642,NIC,group,Activities of holding companies,K,64,companies|except|financial|funding|holding|insurance|pension
+643,NIC,group,Trusts; funds and other financial vehicles,K,64,except|financial|funding|funds|insurance|pension|trusts|vehicles
+649,NIC,group,Other financial service activities; except insurance and pension funding activities,K,64,except|financial|funding|insurance|pension
+65,NIC,division,Insurance; reinsurance and pension funding; except compulsory social security,K,65,compulsory|except|funding|insurance|pension|reinsurance|security|social
+651,NIC,group,Insurance,K,65,compulsory|except|funding|insurance|pension|reinsurance|security|social
+652,NIC,group,Reinsurance,K,65,compulsory|except|funding|insurance|pension|reinsurance|security|social
+653,NIC,group,Pension funding,K,65,compulsory|except|funding|insurance|pension|reinsurance|security|social
+66,NIC,division,Other financial activities,K,66,financial
+661,NIC,group,Activities auxiliary to financial service activities; except insurance    and pension funding,K,66,auxiliary|except|financial|funding|insurance|pension
+662,NIC,group,Activities auxiliary to insurance and pension funding,K,66,auxiliary|financial|funding|insurance|pension
+663,NIC,group,Fund management activities,K,66,financial|management
+L,NIC,section,Real estate activities,L,,
+68,NIC,division,Real estate activities,L,68,estate
+681,NIC,group,Real estate activities with own or leased property,L,68,estate|leased|property
+682,NIC,group,Real estate activities on a fee or contract basis,L,68,basis|contract|estate
+M,NIC,section,Professional; scientific and technical activities,M,,
+69,NIC,division,Legal and accounting activities,M,69,accounting|legal
+691,NIC,group,Legal activities,M,69,accounting|legal
+692,NIC,group,Accounting; bookkeeping and auditing activities; tax consultancy,M,69,accounting|auditing|bookkeeping|consultancy|legal
+70,NIC,division,Activities of head offices; management consultancy activities,M,70,consultancy|management|offices
+701,NIC,group,Activities of head offices,M,70,consultancy|management|offices
+702,NIC,group,Management consultancy activities,M,70,consultancy|management|offices
+71,NIC,division,Architecture and engineering activities; technical testing and analysis,M,71,analysis|architecture|engineering|technical|testing
+711,NIC,group,Architectural and engineering activities and related technical consultancy,M,71,analysis|architectural|architecture|consultancy|engineering|technical|testing
+712,NIC,group,Technical testing and analysis,M,71,analysis|architecture|engineering|technical|testing
+72,NIC,division,Scientific research and development,M,72,development|research|scientific
+721,NIC,group,Research and experimental development on natural sciences and engineering,M,72,development|engineering|experimental|natural|research|sciences|scientific
+722,NIC,group,Research and experimental development on social sciences and humanities,M,72,development|experimental|humanities|research|sciences|scientific|social
+73,NIC,division,Advertising and market research,M,73,advertising|market|research
+731,NIC,group,Advertising,M,73,advertising|market|research
+732,NIC,group,Market research and public opinion polling,M,73,advertising|market|opinion|polling|public|research
+74,NIC,division,Other professional; scientific and technical activities,M,74,professional|scientific|technical
+741,NIC,group,Specialized design activities,M,74,design|professional|scientific|specialized|technical
+742,NIC,group,Photographic activities,M,74,photographic|professional|scientific|technical
+749,NIC,group,Other professional; scientific and technical activities n.e.c.,M,74,n.e.c|professional|scientific|technical
+75,NIC,division,Veterinary activities,M,75,veterinary
+750,NIC,group,Veterinary activities,M,75,veterinary
+N,NIC,section,Administrative and support service activities,N,,
+77,NIC,division,Rental and leasing activities,N,77,leasing|rental
+771,NIC,group,Renting and leasing of motor vehicles,N,77,leasing|motor|rental|renting|vehicles
+772,NIC,group,Renting and leasing of personal and household goods,N,77,goods|household|leasing|personal|rental|renting
+773,NIC,group,Renting and leasing of other machinery; equipment and tangible goods n.e.c.,N,77,equipment|goods|leasing|machinery|n.e.c|rental|renting|tangible
+774,NIC,group,Leasing of nonfinancial intangible assets,N,77,assets|intangible|leasing|nonfinancial|rental
+78,NIC,division,Employment activities,N,78,employment
+781,NIC,group,Activities of employment placement agencies,N,78,agencies|employment|placement
+782,NIC,group,Temporary employment agency activities,N,78,agency|employment|temporary
+783,NIC,group,Human resources provision and management of human resources functions,N,78,employment|functions|human|management|provision|resources
+79,NIC,division,Travel agency; tour operator and other reservation service activities,N,79,agency|operator|reservation|travel
+791,NIC,group,Travel agency and tour operator activities,N,79,agency|operator|reservation|travel
+799,NIC,group,Other reservation service activities,N,79,agency|operator|reservation|travel
+80,NIC,division,Security and investigation activities,N,80,investigation|security
+801,NIC,group,Private security activities,N,80,investigation|private|security
+802,NIC,group,Security systems service activities,N,80,investigation|security|systems
+803,NIC,group,Investigation activities,N,80,investigation|security
+81,NIC,division,Services to buildings and landscape activities,N,81,buildings|landscape|services
+811,NIC,group,Combined facilities support activities,N,81,buildings|combined|facilities|landscape|services|support
+812,NIC,group,Cleaning activities,N,81,buildings|cleaning|landscape|services
+813,NIC,group,Landscape care and maintenance service activities,N,81,buildings|landscape|maintenance|services
+82,NIC,division,Office administrative; office support and other business support activities,N,82,administrative|business|office|support
+821,NIC,group,Office administrative and support activities,N,82,administrative|business|office|support
+822,NIC,group,Activities of call centres,N,82,administrative|business|centres|office|support
+823,NIC,group,Organization of conventions and trade shows,N,82,administrative|business|conventions|office|organization|shows|support|trade
+829,NIC,group,Business support service activities n.e.c.,N,82,administrative|business|n.e.c|office|support
+O,NIC,section,Public administration and defence; compulsory social security,O,,
+84,NIC,division,Public administration and defence; compulsory social security,O,84,administration|compulsory|defence|public|security|social
+841,NIC,group,Administration of the State and the economic and social policy of the community,O,84,administration|community|compulsory|defence|economic|policy|public|security
+842,NIC,group,Provision of services to the community as a whole,O,84,administration|community|compulsory|defence|provision|public|security|services
+843,NIC,group,Compulsory social security activities,O,84,administration|compulsory|defence|public|security|social
+P,NIC,section,Education,P,,
+85,NIC,division,Education,P,85,education
+851,NIC,group,Primary education,P,85,education|primary
+852,NIC,group,Secondary education,P,85,education|secondary
+853,NIC,group,Higher education,P,85,education|higher
+854,NIC,group,Other education,P,85,education
+855,NIC,group,Educational support services,P,85,education|educational|services|support
+Q,NIC,section,Human health and social work activities,Q,,
+86,NIC,division,Human health activities,Q,86,health|human
+861,NIC,group,Hospital activities,Q,86,health|hospital|human
+862,NIC,group,Medical and dental practice activities,Q,86,dental|health|human|medical|practice
+869,NIC,group,Other human health activities,Q,86,health|human
+87,NIC,division,Residential care activities,Q,87,residential
+871,NIC,group,Nursing care facilities,Q,87,facilities|nursing|residential
+872,NIC,group,Residential care activities for mental retardation; mental health and substance abuse,Q,87,abuse|health|mental|residential|retardation|substance
+873,NIC,group,Residential care activities for the elderly and disabled,Q,87,disabled|elderly|residential
+879,NIC,group,Other residential care activities n.e.c.,Q,87,n.e.c|residential
+88,NIC,division,Social work activities without accommodation,Q,88,accommodation|social|without
+881,NIC,group,Social work activities without accommodation for the elderly and disabled,Q,88,accommodation|disabled|elderly|social|without
+889,NIC,group,Other social work activities without accommodation n.e.c.,Q,88,accommodation|n.e.c|social|without
+R,NIC,section,Arts; entertainment and recreation,R,,
+90,NIC,division,Creative; arts and entertainment activities,R,90,creative|entertainment
+900,NIC,group,Creative; arts and entertainment activities,R,90,creative|entertainment
+91,NIC,division,Libraries; archives; museums and other cultural activities,R,91,archives|cultural|libraries|museums
+910,NIC,group,Libraries; archives; museums and other cultural activities,R,91,archives|cultural|libraries|museums
+92,NIC,division,Gambling and betting activities,R,92,betting|gambling
+920,NIC,group,Gambling and betting activities,R,92,betting|gambling
+93,NIC,division,Sports activities and amusement and recreation activities,R,93,amusement|recreation|sports
+931,NIC,group,Sports activities,R,93,amusement|recreation|sports
+932,NIC,group,Other amusement and recreation activities,R,93,amusement|recreation|sports
+S,NIC,section,Other service activities,S,,
+94,NIC,division,Activities of membership organizations,S,94,membership|organizations
+941,NIC,group,Activities of business; employers and professional membership organizations,S,94,business|employers|membership|organizations|professional
+942,NIC,group,Activities of trade unions,S,94,membership|organizations|trade|unions
+949,NIC,group,Activities of other membership organizations,S,94,membership|organizations
