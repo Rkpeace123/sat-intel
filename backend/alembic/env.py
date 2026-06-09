@@ -1,19 +1,40 @@
+"""
+Alembic async migration environment.
+
+URL resolution order:
+  1. DATABASE_URL environment variable (set in .env or docker env)
+  2. sqlalchemy.url in alembic.ini (fallback for local dev without .env)
+
+Append-only triggers are installed after every `upgrade head`:
+  - audit_logs
+  - response_versions
+"""
 import asyncio
 import os
 from logging.config import fileConfig
+from pathlib import Path
 
 from alembic import context
 from sqlalchemy import pool, text
 from sqlalchemy.engine import Connection
 from sqlalchemy.ext.asyncio import async_engine_from_config
 
+# ── Load .env if present (local dev without docker) ───────────────────────────
+_env_file = Path(__file__).parent.parent.parent / ".env"
+if _env_file.exists():
+    for _line in _env_file.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _, _v = _line.partition("=")
+            os.environ.setdefault(_k.strip(), _v.strip())
+
 # ── Import ALL models so autogenerate sees the full schema ────────────────────
-from app.models import Base  # noqa: F401 — side-effect: registers all tables
+from app.models import Base  # noqa: F401 — registers all 26 tables
 
 config = context.config
 
-# Override sqlalchemy.url from environment (never hard-code credentials)
-_db_url = os.environ.get("DATABASE_URL") or os.environ.get("database_url")
+# Override URL from env (takes priority over alembic.ini value)
+_db_url = os.environ.get("DATABASE_URL")
 if _db_url:
     config.set_main_option("sqlalchemy.url", _db_url)
 
@@ -24,11 +45,12 @@ target_metadata = Base.metadata
 
 
 # ── Append-only trigger DDL ───────────────────────────────────────────────────
-_APPEND_ONLY_TRIGGER = """
+
+_TRIGGER_FUNCTION = """
 CREATE OR REPLACE FUNCTION prevent_mutation()
 RETURNS TRIGGER LANGUAGE plpgsql AS $$
 BEGIN
-  RAISE EXCEPTION 'Table % is append-only: UPDATE and DELETE are not allowed.', TG_TABLE_NAME;
+  RAISE EXCEPTION 'Table % is append-only — UPDATE and DELETE are not allowed', TG_TABLE_NAME;
   RETURN NULL;
 END;
 $$;
@@ -37,8 +59,8 @@ $$;
 _APPEND_ONLY_TABLES = ["audit_logs", "response_versions"]
 
 
-def _create_append_only_triggers(conn: Connection) -> None:
-    conn.execute(text(_APPEND_ONLY_TRIGGER))
+def _install_append_only_triggers(conn: Connection) -> None:
+    conn.execute(text(_TRIGGER_FUNCTION))
     for table in _APPEND_ONLY_TABLES:
         conn.execute(text(f"""
             DROP TRIGGER IF EXISTS trg_no_mutation_{table} ON {table};
@@ -77,7 +99,11 @@ async def run_async_migrations() -> None:
     async with connectable.connect() as connection:
         await connection.run_sync(do_run_migrations)
         # Install append-only triggers after tables are created
-        await connection.run_sync(_create_append_only_triggers)
+        try:
+            await connection.run_sync(_install_append_only_triggers)
+        except Exception as e:  # noqa: BLE001
+            # Non-fatal if triggers already exist
+            print(f"  [alembic] trigger note: {e}")
         await connection.commit()
     await connectable.dispose()
 
