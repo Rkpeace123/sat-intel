@@ -36,10 +36,16 @@ def create_app() -> FastAPI:
         lifespan=lifespan,
     )
 
-    # ── CORS (adjust origins in production) ──────────────────────────────────
+    # ── CORS ─────────────────────────────────────────────────────────────────
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=["*"],
+        allow_origins=[
+            "http://localhost:3000",   # Vite dev server
+            "http://localhost:5173",   # Vite default port
+            "http://127.0.0.1:3000",
+            "*",                       # Remove in production; replace with real domain
+        ],
+        allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],
     )

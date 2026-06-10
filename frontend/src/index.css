@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500&family=Noto+Sans+Devanagari:wght@400;500&family=Noto+Sans+Tamil:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --font-sans: "Noto Sans", "Noto Sans Devanagari", "Noto Sans Tamil", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, sfmono-regular, monospace;
+
+  --color-gov-navy: #0B2E5E;
+  --color-gov-blue: #14387F;
+  --color-gov-saffron: #FF9933;
+  --color-gov-green: #138808;
+  --color-page-bg: #F4F6FA;
+  --color-surface: #FFFFFF;
+  --color-border-color: #E2E6EE;
+  --color-text-color: #1A1A1A;
+  --color-text-muted: #5A6577;
+
+  --color-trust-green: #1D9E75;
+  --color-trust-green-bg: #E1F5EE;
+  --color-trust-amber: #BA7517;
+  --color-trust-amber-bg: #FAEEDA;
+  --color-trust-red: #E24B4A;
+  --color-trust-red-bg: #FCEBEB;
+}
+
+@utility bg-indigo-750 {
+  background-color: #1A2A6C;
+}
+
+@utility text-slate-650 {
+  color: #475569;
+}
+
+@utility h-18 {
+  height: 4.5rem;
+}
+
+@utility bg-slate-150 {
+  background-color: #f1f5f9;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideDown {
+  from { max-height: 0; opacity: 0; }
+  to { max-height: 600px; opacity: 1; }
+}
+
+@utility animate-fadeIn {
+  animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@utility animate-slideDown {
+  animation: slideDown 0.25s ease-out forwards;
+}
